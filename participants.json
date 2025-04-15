@@ -1,11 +1,1 @@
-{
-  "participant_id": {
-    "Description": "Participant identifier"
-  },
-  "age": {
-    "Description": "Age in years as in the initial session, might not be correct for other sessions"
-  },
-  "sex": {
-    "Description": "self-rated by participant, M for male/F for female"
-  }
-}
+.git/annex/objects/F0/k4/SHA256E-s279--3bd742166dfb53d96fa05da8e698cd0ca46953570faf61a77097d8a991205dd2.json/SHA256E-s279--3bd742166dfb53d96fa05da8e698cd0ca46953570faf61a77097d8a991205dd2.json
