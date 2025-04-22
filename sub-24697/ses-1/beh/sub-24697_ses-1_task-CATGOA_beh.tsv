@@ -1,0 +1,55 @@
+domain	order	question	question_number	question_text	response	response_time	running_score	score_delta
+Mood/Anxiety	1	dep001	1	Has there ever been a time when you felt sad or depressed most of the time?	1	5.164	0.552573877	0
+Mood/Anxiety	2	gad001	11	Have you ever been a worrier?	1	1.624	0.739402255	0.186828378
+Mood/Anxiety	3	dep002	4	"Has there ever been a time when you cried a lot, or felt like crying?"	1	1.886	0.900240966	0.160838711
+Mood/Anxiety	4	scr006	35	Are you currently taking medication because of your emotions and/or behaviors?	0	1.717	0.668866144	-0.231374821
+Mood/Anxiety	5	ocd004	20	"Have you ever been bothered by thoughts that don't make sense to you, that come over and over again and won't go away, such as fear that you would do something/say something bad without intending to?"	0	5.739	0.436323359	-0.232542786
+Mood/Anxiety	6	pan004	10	"Has there ever been a time when all of a sudden, you felt that you were losing control, something terrible was going to happen, that you were going crazy, or going to die?"	0	4.144	0.317194918	-0.11912844
+Mood/Anxiety	7	ocd005	8	"Have you ever been bothered by thoughts that don't make sense to you, that come over and over again and won't go away, such as feeling that bad things that happened were your fault?"	0	3.355	0.230349576	-0.086845343
+Mood/Anxiety	8	sip032	6	Do you ever feel a loss of sense of self or feel disconnected from yourself or your life?	0	7.226	0.176676333	-0.053673243
+Mood/Anxiety	9	dep006	13	Has there ever been a time when nothing was fun for you and you just weren't interested in anything?	0	4.636	0.072236922	-0.10443941
+Mood/Anxiety	10	dep004	18	"Has there ever been a time when you felt grouchy, irritable, or in a bad mood most of the time, even little things would make you mad?"	1	3.097	0.164466189	0.092229267
+Mood/Anxiety	11	pan003	12	"Has there ever been a time when all of a sudden you felt very, very scared or uncomfortable - and your chest hurt, you couldn't catch your breath, your heart beat very fast, you felt very shaky, and sweaty/tingly/numb in your hands or feet?"	0	3.786	0.12638866	-0.03807753
+Mood/Anxiety	12	ocd013	24	"Have you ever had to do something over and over again - that would have made you feel really nervous if you couldn't do it, like checking (for example, doors, locks, ovens)?"	0	5.22	0.083882337	-0.042506323
+Phobias	1	agr001	7	"Have you ever been very nervous or afraid of being in crowds (for example, a classroom, cafeteria, restaurant, or movie theater)?"	0	2.955	-0.298168596	0
+Phobias	2	soc001	9	"Was there ever a time in your life when you felt afraid or uncomfortable or really, really shy with people, like meeting new people, going to parties, or eating or drinking, writing or doing homework in front of others?"	0	5.409	-0.490425498	-0.192256902
+Phobias	3	sep511	25	Were you ever scared to be alone in your room (or any place in your house) or did you need your mother/father/guardian to stay with you while you fell asleep?	0	3.604	-0.526207195	-0.035781697
+Phobias	4	phb002	18	"Have you ever been very nervous or afraid of being in really high places, like a roof or tall building?"	1	3.239	-0.095661125	0.430546071
+Phobias	5	soc004	3	"Was there ever a time in your life when you felt afraid or uncomfortable acting, performing, giving a talk/speech, playing a sport or doing a musical performance, or taking an important test or exam (even though you studied enough)?"	1	4.576	0.112134279	0.207795404
+Phobias	6	soc005	8	Was there ever a time in your life when you felt afraid or uncomfortable because you were the center of attention and were concerned something embarrassing might happen and you felt very afraid or felt uncomfortable?	1	5.271	0.373147632	0.261013353
+Phobias	7	agr005	2	Have you ever been very nervous or afraid of traveling by yourself?	0	2.597	0.302446825	-0.070700807
+Phobias	8	agr002	11	Have you ever been very nervous or afraid of going to public places (such as a store or shopping mall)?	0	1.877	0.248938206	-0.053508619
+Phobias	9	agr006	1	Have you ever been very nervous or afraid of traveling away from home?	0	2.132	0.21295957	-0.035978637
+Phobias	10	agr008	4	"Have you ever been very nervous or afraid of using public transportation like a bus, train, or subway?"	0	1.594	0.178419977	-0.034539593
+Phobias	11	agr004	6	Have you ever been very nervous or afraid of going over bridges or through tunnels?	1	2.621	0.331741285	0.153321308
+Phobias	12	phb008	23	"Have you ever been very nervous or afraid of loud noises, being in the dark, or people in costumes?"	0	2.351	0.302873313	-0.028867972
+Externalizing	1	add011	16	"Have you often had trouble paying attention or keeping your mind on your school, work, chores, or other activities that you were doing?"	0	4.507	-0.375140742	0
+Externalizing	2	cdd002	12	"Did you ever skip school, stay out at night later than you were supposed to (more than 2 hours), or run away from home overnight?"	0	5.565	-0.490051145	-0.114910402
+Externalizing	3	add013	20	"Have you often disliked, avoided, or put off school or homework (or any other activity requiring concentration)?"	0	4.228	-0.609278651	-0.119227506
+Externalizing	4	odd006	17	"Were you often irritable or grouchy, or did you often get angry because you thought that things were unfair?"	0	6.314	-0.689644094	-0.080365443
+Externalizing	5	add021	19	Did you often blurt out answers to other people's questions before they finished speaking or interrupt people abruptly?	1	3.644	-0.055111711	0.634532383
+Externalizing	6	odd001	10	"Was there a time when you often did things that got you into trouble with adults such as losing your temper, arguing with or talking back to adults, or being grouchy or irritable with them?"	1	4.893	0.356285816	0.411397527
+Externalizing	7	add015	24	"Did you often have trouble making plans, doing things that had to be done in a certain kind of order, or that had a lot of different steps?"	0	2.955	0.296687132	-0.059598685
+Externalizing	8	add016	11	Have you often had people tell you that you did not seem to be listening when they spoke to you or that you were daydreaming?	0	2.934	0.22449026	-0.072196872
+Externalizing	9	odd002	1	Was there a time when you often got into trouble with adults for refusing to do what they told you to do or for breaking rules at home/school?	0	4.02	0.158361057	-0.066129203
+Externalizing	10	add020	23	"Did you often have difficulty sitting still for more than a few minutes at a time, even after being asked to stay seated, or did you often fidget with your hands or feet or wiggle in your seat or were you always on the go?"	0	2.828	0.113563585	-0.044797472
+Externalizing	11	add014	21	Did you often lose things you needed for school or projects at home (assignments or books) or make careless mistakes in school work or other activities?	0	2.494	0.078856949	-0.034706636
+Externalizing	12	add022	22	"Did you often join other people's conversations or have trouble waiting your turn (for example, waiting in line, waiting for a teacher to call on you in class)?"	0	5.47	0.054643729	-0.02421322
+Psychosis	1	psy001	12	Have you ever heard voices when no one was there?	0	1.488	-0.08604944	0
+Psychosis	2	psy029	13	Have you ever seen visions or seen things which other people could not see?	0	1.656	-0.143082947	-0.057033507
+Psychosis	3	man001	22	"Have there been times when you were much more active, excited or energetic than usual, had problems sitting still, or needed to move around a lot?"	0	5.977	-0.307483709	-0.164400762
+Psychosis	4	sip028	25	Do people ever seem to have difficulty understanding you?	0	2.482	-0.414128852	-0.106645143
+Psychosis	5	sip005	7	"I may have felt that there could possibly be something interrupting or controlling my thoughts, feelings, or actions."	0	7.286	-0.454944326	-0.040815474
+Psychosis	6	sip003	8	I think that I have felt that there are odd or unusual things going on that I can't explain.	0	3.913	-0.618927728	-0.163983401
+Psychosis	7	sip013	6	I think that I may hear my own thoughts being said out loud.	0	2.055	-0.709811845	-0.090884117
+Psychosis	8	sip006	10	I have had the experience of doing something differently because of my superstitions.	0	5.311	-0.765149808	-0.055337964
+Psychosis	9	sip010	3	I believe that I have special natural or supernatural gifts beyond my talents and natural strengths.	0	2.895	-0.797461656	-0.032311848
+Personality	1	pid016	16	I don't like to get too close to people.	0	3.345	-0.627056144	0
+Personality	2	pid012	12	I have seen things that weren't really there.	0	2.788	-0.650564611	-0.023508467
+Personality	3	pid020	20	I often have to deal with people who are less important than me.	0	6.004	-0.767216199	-0.116651588
+Personality	4	pid015	15	I get irritated easily by all sorts of things.	1	2.433	-0.298093206	0.469122993
+Personality	5	pid011	11	"I get stuck on one way of doing things, even when it's clear it won't work."	2	3.236	0.186090791	0.484183997
+Personality	6	pid024	24	"Things around me often feel unreal, or more real than usual."	0	2.423	0.091645719	-0.094445072
+Personality	7	pid007	7	My thoughts often don't make sense to others.	0	3.206	-0.015700078	-0.107345797
+Personality	8	pid021	21	I often have thoughts that make sense to me but that other people say are strange.	0	3.375	-0.092626759	-0.076926681
+Personality	9	pid023	23	"I often ""zone out"" and then suddenly come to and realize that a lot of time has passed."	0	5.157	-0.141611963	-0.048985204
