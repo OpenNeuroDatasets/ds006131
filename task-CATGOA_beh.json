@@ -1,0 +1,44 @@
+{
+   "TaskName": "Computerized adaptive testing GOASSESS structured interview",
+   "Instructions": "This task is designed to evaluate your ability to answer questions based on the provided text. You will be given a series of questions, and you need to select the most appropriate answer from the options provided. Thank you for agreeing to take part in our study! This survey should take about 20 minutes. You will be asked several questions. These questions will ask you about a lot of different things, such as your thoughts or feelings or whether or not certain things may have happened to you. Each question has its own answer choices. Please be sure to look at all choices before you pick an answer. Some questions ask about how you feel in general or most of the time, but others ask you about how you have felt in the past six months, past year, or when you were a child. Please pay attention to the time that's being asked about for each question. Some of the questions may seem like ones you already answered. Please answer each question anyway. When you are finished with a page, please check to make sure you have answered each question. You must select a response for every item before proceeding to the next page, but most have an option to select 'I prefer not to say' or 'I don't know' if you do not wish to answer. Please complete the survey on your own, without help from others. It is best to take this survey in a private, quiet location with few distractions around you. When you are ready, click 'Next Page' to begin!",
+   "InstitutionName": "University of Pennsylvania",
+   "domain": {
+      "LongName": "Psychopathology domain",
+      "Levels": {
+         "Mood/Anxiety": "Questions related to mood and anxiety disorders.",
+         "Phobias": "Questions related to phobias.",
+         "Externalizing": "Questions related to externalizing disorders.",
+         "Psychosis": "Questions related to psychotic disorders.",
+         "Personality": "Questions related to personality disorders."
+      }
+   },
+   "order": {
+      "Description": "The trial/question number in the sequence."
+   },
+   "question": {
+      "Description": "Unique identifier for the question."
+   },
+   "question_number": {
+      "Description": "The number of the question in the sequence."
+   },
+   "question_text": {
+      "Description": "The text of the question to be answered."
+   },
+   "response": {
+      "Description": "The response, coded as a number.",
+      "Levels": {
+         "0": "No / Prefer not to say",
+         "1": "Yes"
+      }
+   },
+   "response_time": {
+      "Description": "Response time for the question.",
+      "Units": "s"
+   },
+   "running_score": {
+      "Description": "The estimated score up to the current question."
+   },
+   "score_delta": {
+      "Description": "The change in score from the previous question to the current question."
+   }
+}
