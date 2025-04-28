@@ -7,20 +7,5 @@
   },
   "sex": {
     "Description": "self-rated by participant, M for male/F for female"
-  },
-  "catgoa_mood_anxiety_score": {
-    "Description": "Final score from the Mood and Anxiety subscale of the CATGOA task."
-  },
-  "catgoa_phobias_score": {
-    "Description": "Final score from the Phobias subscale of the CATGOA task."
-  },
-  "catgoa_externalizing_score": {
-    "Description": "Final score from the Externalizing subscale of the CATGOA task."
-  },
-  "catgoa_psychosis_score": {
-    "Description": "Final score from the Psychosis subscale of the CATGOA task."
-  },
-  "catgoa_personality_score": {
-    "Description": "Final score from the Personality subscale of the CATGOA task."
   }
 }
