@@ -1,1 +1,5 @@
-.git/annex/objects/K7/j5/SHA256E-s364--9db91f9523cdaf2049c9ed25a47bbbd7ab16816a93eaa90930c8c9566d227fccCHANGES/SHA256E-s364--9db91f9523cdaf2049c9ed25a47bbbd7ab16816a93eaa90930c8c9566d227fccCHANGES
+0.0.1  Initial data acquired
+TODOs:
+	- verify and possibly extend information in participants.tsv (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
+	- fill out dataset_description.json, README, sourcedata/README (if present)
+	- provide _events.tsv file for each _bold.nii.gz with onsets of events (see  '8.5 Task events'  of BIDS specification)
