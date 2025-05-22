@@ -1,1 +1,70 @@
-../.git/annex/objects/6w/78/SHA256E-s2030--67d805667b8d70b21ed124c769cc4d4b7aa9f7969027c16647305fcfba19c438.json/SHA256E-s2030--67d805667b8d70b21ed124c769cc4d4b7aa9f7969027c16647305fcfba19c438.json
+{
+    "MeasurementToolMetadata": {
+        "Description": "Child and Adolescent Trauma Screen",
+        "Instructions": "Stressful or scary events happen to many people. Below is a list of stressful and scary events that sometimes happen. Select YES if it happened to you. Select NO if it didn't happen to you.",
+        "TermURL": "https://www.cognitiveatlas.org/task/id/trm_5586ff878155d"
+    },
+    "cats_01": {
+        "Description": "Serious natural disaster like a flood, tornado, hurricane, earthquake, or fire.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cats_02": {
+        "Description": "Serious accident or injury like a car/bike crash, dog bite, sports injury.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cats_03": {
+        "Description": "Robbed by threat, force or weapon.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cats_05": {
+        "Description": "Slapped, punched, or beat up by someone not in your family.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cats_07": {
+        "Description": "Seeing someone in the community get slapped,punched.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cats_10": {
+        "Description": "Someone close to you dying suddenly or violently.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cats_11": {
+        "Description": "Attacked, stabbed, shot at or hurt badly.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cats_12": {
+        "Description": "Seeing someone attacked, stabbed, shot at, hurt badly or killed.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cats_13": {
+        "Description": "Stressful or scary medical procedure.",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}

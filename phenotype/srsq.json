@@ -1,1 +1,79 @@
-../.git/annex/objects/fG/42/SHA256E-s2277--b6eecc00ea76156e246fa15bb6e8c6c456db376f9d5b554c61889d31d8bad827.json/SHA256E-s2277--b6eecc00ea76156e246fa15bb6e8c6c456db376f9d5b554c61889d31d8bad827.json
+{
+    "MeasurementToolMetadata": {
+        "Description": "Sleep Reduction Screening Questionnaire",
+        "Instructions": "The questions in this scale ask you about your sleep habits. All questions refer to the previous two weeks.",
+        "TermURL": "https://doi.org/10.1007/s10566-014-9256-z"
+    },
+    "srsq_01": {
+        "Description": "Do you have trouble getting up in the morning?",
+        "Levels": {
+            "1": "No",
+            "2": "Sometimes",
+            "3": "Yes"
+        }
+    },
+    "srsq_02": {
+        "Description": "Do you feel sleepy during the day?",
+        "Levels": {
+            "1": "No",
+            "2": "Sometimes",
+            "3": "Yes"
+        }
+    },
+    "srsq_03": {
+        "Description": "Are you immediately wide awake when you wake up?",
+        "Levels": {
+            "1": "No",
+            "2": "Sometimes",
+            "3": "Yes"
+        }
+    },
+    "srsq_04": {
+        "Description": "When I am at school or work for a while I have trouble keeping my eyes open",
+        "Levels": {
+            "1": "No",
+            "2": "Sometimes",
+            "3": "Yes"
+        }
+    },
+    "srsq_05": {
+        "Description": "Do you have enough energy during the day to do everything?",
+        "Levels": {
+            "1": "No",
+            "2": "Sometimes",
+            "3": "Yes"
+        }
+    },
+    "srsq_06": {
+        "Description": "I am active during the day",
+        "Levels": {
+            "1": "Agree",
+            "2": "Partly agree",
+            "3": "Do not agree"
+        }
+    },
+    "srsq_07": {
+        "Description": "I have to struggle to stay awake in class or at work",
+        "Levels": {
+            "1": "Never",
+            "2": "Once in a while",
+            "3": "Often"
+        }
+    },
+    "srsq_08": {
+        "Description": "I don't feel like going to school or work because I feel too tired",
+        "Levels": {
+            "1": "This never happens",
+            "2": "This happens once a week",
+            "3": "This happens more often than twice a week"
+        }
+    },
+    "srsq_09": {
+        "Description": "I am a person who does not get enough sleep",
+        "Levels": {
+            "1": "Agree",
+            "2": "Partly agree",
+            "3": "Do not agree"
+        }
+    }
+}

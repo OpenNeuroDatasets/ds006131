@@ -1,1 +1,67 @@
-../.git/annex/objects/vP/m2/SHA256E-s2894--b22c794f1547fbff36472b087bcb79464758e6ab882ee2c859f9089d57fee31c.json/SHA256E-s2894--b22c794f1547fbff36472b087bcb79464758e6ab882ee2c859f9089d57fee31c.json
+{
+    "MeasurementToolMetadata": {
+        "Description": "PRIME Screen Revised 5-Item (PRIME-5-SR)",
+        "Instructions": "The following questions ask you about your personal experiences. We ask about your sensory, psychological, emotional, and social experiences. Some of these questions may seem to relate directly to your experiences and others may not. Based on your experiences within the past year, please choose how much you agree or disagree with the following statements: Definitely agree, Somewhat agree, Slightly agree, Not sure, Slightly disagree, Somewhat disagree, Definitely disagree. Please read each question carefully and choose the answer that best describes your experience.",
+        "TermURL": "https://doi.org/10.1016/j.jaac.2023.07.706"
+    },
+    "prime5_sr_01": {
+        "Description": "I think that I have felt that there are odd or unusual things going on that I can't explain",
+        "Levels": {
+            "0": "Definitely disagree",
+            "1": "Somewhat disagree",
+            "2": "Slightly disagree",
+            "3": "Not sure",
+            "4": "Slightly agree",
+            "5": "Somewhat agree",
+            "6": "Definitely agree"
+        }
+    },
+    "prime5_sr_02": {
+        "Description": "I have had the experience of doing something differently because of my superstitions",
+        "Levels": {
+            "0": "Definitely disagree",
+            "1": "Somewhat disagree",
+            "2": "Slightly disagree",
+            "3": "Not sure",
+            "4": "Slightly agree",
+            "5": "Somewhat agree",
+            "6": "Definitely agree"
+        }
+    },
+    "prime5_sr_03": {
+        "Description": "I think that I may get confused at times whether something I experience or perceive may be real or may be just part of my imagination or dreams",
+        "Levels": {
+            "0": "Definitely disagree",
+            "1": "Somewhat disagree",
+            "2": "Slightly disagree",
+            "3": "Not sure",
+            "4": "Slightly agree",
+            "5": "Somewhat agree",
+            "6": "Definitely agree"
+        }
+    },
+    "prime5_sr_04": {
+        "Description": "I think I might feel like my mind is 'playing tricks on me' ",
+        "Levels": {
+            "0": "Definitely disagree",
+            "1": "Somewhat disagree",
+            "2": "Slightly disagree",
+            "3": "Not sure",
+            "4": "Slightly agree",
+            "5": "Somewhat agree",
+            "6": "Definitely agree"
+        }
+    },
+    "prime5_sr_05": {
+        "Description": "I think that I may hear my own thoughts being said out loud",
+        "Levels": {
+            "0": "Definitely disagree",
+            "1": "Somewhat disagree",
+            "2": "Slightly disagree",
+            "3": "Not sure",
+            "4": "Slightly agree",
+            "5": "Somewhat agree",
+            "6": "Definitely agree"
+        }
+    }
+}

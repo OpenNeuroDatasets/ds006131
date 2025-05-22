@@ -1,1 +1,223 @@
-../.git/annex/objects/gq/1j/SHA256E-s7558--4052337ad8d18b2a2386ccaed3ad9e523c9cf7fe5af4f343a2abdcefb535a4d4.json/SHA256E-s7558--4052337ad8d18b2a2386ccaed3ad9e523c9cf7fe5af4f343a2abdcefb535a4d4.json
+{
+    "MeasurementToolMetadata": {
+        "Description": "Extended Strengths and Weaknesses Assessment of ADHD Symptoms and Normal Behavior",
+        "Instructions": "For each item, choose the response that best describes you over the past six months.",
+        "TermURL": "https://doi.org/10.1111/jcpp.13104"
+    },
+    "eswan_adhd_01": {
+        "Description": "Give close attention to detail and avoid careless mistakes",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_02": {
+        "Description": "Sustain (keep) attention on tasks or play activities",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_03": {
+        "Description": "Listen when spoken to directly",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_04": {
+        "Description": "Follow through on instructions and finish school work and chores",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_05": {
+        "Description": "Organize tasks and activities",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_06": {
+        "Description": "Engage in tasks that require sustained mental effort",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_07": {
+        "Description": "Keep track of things necessary for activities (don't lose them)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_08": {
+        "Description": "Ignore extraneous stimuli (unimportant things around you)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_09": {
+        "Description": "Remember daily activities",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_10": {
+        "Description": "Sit still (control movement of hands or feet or control squirming)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_11": {
+        "Description": "Stay seated (when required by class rules or social conventions)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_12": {
+        "Description": "Modulate motor activity (inhibit or don't do inappropriate running or climbing)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_13": {
+        "Description": "Play quietly (keep noise level reasonable)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_14": {
+        "Description": "Settle down and rest (control constant activity)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_15": {
+        "Description": "Modulate verbal activity (control excessive talking)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_16": {
+        "Description": "Reflect on questions (control blurting out answers)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_17": {
+        "Description": "Await turn (stand in line and take turns)",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    },
+    "eswan_adhd_18": {
+        "Description": "Enter into conversation and games without interrupting or intruding",
+        "Levels": {
+            "1": "Far below average",
+            "2": "Below average",
+            "3": "Slightly below average",
+            "4": "About average",
+            "5": "Slightly above average",
+            "6": "Above average",
+            "7": "Far above average"
+        }
+    }
+}

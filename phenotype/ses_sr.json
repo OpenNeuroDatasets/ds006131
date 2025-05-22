@@ -1,1 +1,171 @@
-../.git/annex/objects/6P/Kx/SHA256E-s6323--48a6ea1f8ebbfb209e84d45de63c3319bbd00a23bf7e7e40a6c4addd4575377b.json/SHA256E-s6323--48a6ea1f8ebbfb209e84d45de63c3319bbd00a23bf7e7e40a6c4addd4575377b.json
+{
+    "MeasurementToolMetadata": {
+        "Description": "Socioeconomics (self-report)",
+        "Instructions": "Please answer the following questions about yourself and your family."
+    },
+    "ses_sr_immigrant_status": {
+        "Description": "What is your immigrant status?",
+        "Levels": {
+            "1": "1st generation migrant (you and your parents born abroad)",
+            "2": "1st generation migrant plus (you and your parents born abroad; you came to USA before age 5)",
+            "3": "2nd generation migrant (born in USA, one or both of your parents born abroad)",
+            "4": "Born in USA and not 1st or 2nd generation",
+            "dk": "I don't know",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_citizenship": {
+        "Description": "What is your citizenship status?",
+        "Levels": {
+            "1": "US citizen",
+            "2": "Permanent resident",
+            "3": "Refugee",
+            "4": "Temporary resident (work/study)",
+            "oth": "Something else",
+            "dk": "I don't know",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_edu_father": {
+        "Description": "What is the highest level of formal education completed by your father (child-rearing)?",
+        "Levels": {
+            "1": "No schooling",
+            "2": "Some primary school",
+            "3": "Completed primary school",
+            "4": "Some high school",
+            "5": "Completed high school",
+            "6": "Some college/technical school/undergraduate",
+            "7": "Completed college/technical school/undergraduate",
+            "8": "Some graduate/professional school",
+            "9": "Completed graduate/professional school",
+            "dk": "I don't know",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_edu_mother": {
+        "Description": "What is the highest level of formal education completed by your mother (child-rearing)?",
+        "Levels": {
+            "1": "No schooling",
+            "2": "Some primary school",
+            "3": "Completed primary school",
+            "4": "Some high school",
+            "5": "Completed high school",
+            "6": "Some college/technical school/undergraduate",
+            "7": "Completed college/technical school/undergraduate",
+            "8": "Some graduate/professional school",
+            "9": "Completed graduate/professional school",
+            "dk": "I don't know",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_marital": {
+        "Description": "What is your current marital status?",
+        "Levels": {
+            "1": "Single, never married",
+            "2": "Married/Common law",
+            "3": "Cohabitating with significant other",
+            "4": "Separated",
+            "5": "Divorced",
+            "6": "Widowed",
+            "oth": "Something else",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_living": {
+        "Description": "What best describes your current living arrangement?",
+        "Levels": {
+            "1": "With family",
+            "2": "With spouse/partner",
+            "3": "On own in apartment/house",
+            "4": "In a group/boarding/rooming house",
+            "5": "With other(s), not spouse/partner",
+            "6": "In a shelter",
+            "7": "On the street",
+            "oth": "Something else",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_income_household": {
+        "Description": "What is your household income before taxes, from all sources?",
+        "Levels": {
+            "1": "Less than $10,000",
+            "2": "$10,000 to $19,999",
+            "3": "$20,000 to $39,999",
+            "4": "$40,000 to $59,999",
+            "5": "$60,000 to $99,999",
+            "6": "$100,000 and above",
+            "dk": "I don't know",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_income_src": {
+        "Description": "What is the main source of your personal income?",
+        "Levels": {
+            "1": "Contributions from family/spouse/partner",
+            "2": "Disability income",
+            "3": "Gross earnings (self)",
+            "4": "Social support", 
+            "5": "Pension/Insurance",
+            "6": "Personal needs allowance (e.g., if living in a shelter",
+            "7": "Student loan",
+            "oth": "Something else",
+            "dk": "I don't know",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_property": {
+        "Description": "Do you own a home/apartment",
+        "Levels": {
+            "1": "Own",
+            "2": "Pay rent or sublease",
+            "3": "Occupied under redemption agreement",
+            "4": "Occupied free of charge (e.g. owned by friends or relatives who provide boarding in exchange for care-taking and cleaning)",
+            "oth": "Something else",
+            "dk": "I don't know",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_property_value": {
+        "Description": "What would be the current value of your home if it were sold today?",
+        "Levels": {
+            "1": "Less than $50,000",
+            "2": "$50,000-$100,000",
+            "3": "$100,000-$200,000",
+            "4": "$200,000-$350,000", 
+            "5": "$350,000-$500,000",
+            "6": "Greater than $500,000",
+            "dk": "I don't know",
+            "pns": "I prefer not to say"
+        }
+    },
+    "ses_sr_residents": {
+        "Description": "How many people are living in your household, including children?",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4", 
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "dk": "I don't know"
+        }
+    },
+    "ses_sr_bedrooms": {
+        "Description": "How many bedrooms are in your house/apartment?",
+        "Levels": {
+            "0": "0 bedrooms",
+            "1": "1 bedroom",
+            "2": "2 bedrooms",
+            "3": "3 bedrooms",
+            "4": "4 bedrooms", 
+            "5": "5 bedrooms",
+            "6": "6 bedrooms",
+            "7": "7 bedrooms",
+            "8": "8 or more bedrooms",
+            "dk": "I don't know",
+            "pns": "I prefer not to say"
+        }
+    }
+}

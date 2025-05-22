@@ -1,1 +1,47 @@
-../.git/annex/objects/vW/XG/SHA256E-s1698--bfd9925bfbf1886257d4906a2038a20f97125914141a3222d08ec8cb2ca0c212.json/SHA256E-s1698--bfd9925bfbf1886257d4906a2038a20f97125914141a3222d08ec8cb2ca0c212.json
+{
+    "MeasurementToolMetadata": {
+        "Description": "Perceived Stress Scale (PSS-4)",
+        "Instructions": "The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate how often you felt or thought a certain way.",
+        "TermURL": "https://www.jstor.org/stable/2136404"
+    },
+    "pss4_01": {
+        "Description": "In the last month, how often have you felt that you were unable to control the important things in your life?",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "Fairly often",
+            "4": "Very often"
+        }
+    },
+    "pss4_02": {
+        "Description": "In the last month, how often have you felt confident about your ability to handle your personal problems?",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "Fairly often",
+            "4": "Very often"
+        }
+    },
+    "pss4_03": {
+        "Description": "In the last month, how often have you felt that things were going your way?",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "Fairly often",
+            "4": "Very often"
+        }
+    },
+    "pss4_04": {
+        "Description": "In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "Fairly often",
+            "4": "Very often"
+        }
+    }
+}
