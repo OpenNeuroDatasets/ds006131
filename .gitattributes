@@ -2,3 +2,5 @@
 **/.git* annex.largefiles=nothing
 * annex.largefiles=((mimeencoding=binary)and(largerthan=0))
 CHANGES annex.largefiles=nothing
+*.json text eol=lf annex.largefiles=largerthan=1mb
+* annex.largefiles=((mimeencoding=binary)and(largerthan=0))
