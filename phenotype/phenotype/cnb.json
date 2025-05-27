@@ -1,0 +1,498 @@
+{
+    "MeasurementToolMetadata": {
+      "Description": "The Penn Computerized Neurobehavioral Battery (CNB) is an online cognitive assessment consisting of a series of tasks that measure accuracy and speed of performance in major cognitive domains.",
+      "TermURL": "https://webcnp.med.upenn.edu/assessments.pl?start=1"
+    },
+    "er40_a_valid_code":{
+      "Description": "Validation Code for entire Penn Emotion Recognition Test (ER40)",
+      "Levels": {
+        "N": "Invalid",
+        "F": "Likely invalid",
+        "V3": "Likely invalid",
+        "S": "Skipped"
+      }
+    },
+    "cnb_er40_cr": {
+      "Description": "ER40 Total Correct Responses"
+    },
+    "cnb_er40_rtcr": {
+      "Description": "ER40 Median Response Time for Correct Responses (ms)"
+    },
+    "cnb_er40_rt": {
+      "Description":"ER40 Median Response Time for All Responses (ms)"
+    },
+    "cnb_er40_fc": {
+      "Description": "ER40 Correct Female Trial Responses"
+    },
+    "cnb_er40_mc": {
+      "Description": "ER40 Correct Male Trial Responses"
+    },
+    "cnb_er40_fcrt":{
+      "Description": "ER40 Median Response Time for Correct Female Trial Responses (ms)"
+    },
+    "cnb_er40_mcrt": {
+      "Description": "ER40 Median Response Time for Correct Male Trial Responses (ms)"
+    },
+    "cnb_er40_ang": {
+      "Description": "ER40 Correct Anger Trial Responses"
+    },
+    "cnb_er40_fear": {
+      "Description": "ER40 Correct Fear Trial Responses"
+    },
+    "cnb_er40_hap": {
+      "Description": "ER40 Correct Happy Trial Responses"
+    },
+    "cnb_er40_noe": {
+      "Description": "ER40 Correct No Emotion Trial Responses"
+    },
+    "cnb_er40_sad": {
+      "Description": "ER40 Correct Sad Trial Responses"
+    },
+    "cnb_er40_fpa": {
+      "Description": "ER40 False Positive Anger Responses"
+    },
+    "cnb_er40_fpf": {
+      "Description": "ER40 False Positive Fear Responses"
+    },
+    "cnb_er40_fph": {
+      "Description": "ER40 False Positive Happy Responses"
+    },
+    "cnb_er40_fpn": {
+      "Description": "ER40 False Positive No Emotion Responses"
+    },
+    "cnb_er40_fps": {
+      "Description": "ER40 False Positive Sad Responses"
+    },
+    "cnb_er40_angrt": {
+      "Description": "ER40 Median Response Time for Correct Anger Trial Responses (ms)"
+    },
+    "cnb_er40_fearrt": {
+      "Description": "ER40 Median Response Time for Correct Fear Trial Responses (ms)"
+    }, 
+    "cnb_er40_haprt": {
+      "Description": "ER40 Median Response Time for Correct Happy Trial Responses (ms)"
+    }, 
+    "cnb_er40_noert": {
+      "Description": "ER40 Median Response Time for Correct No Emotion Trial Responses (ms)"
+    }, 
+    "cnb_er40_sadrt": {
+      "Description": "ER40 Median Response Time for Correct Sad Trial Responses (ms)"
+    },
+    "cnb_er40_cnt_250": {
+      "Description": "ER40 Total Count of Responses Under 250 milliseconds (ms)"
+    },
+    "cnb_er40_lrsr": {
+      "Description": "ER40 Longest Run of Same Responses"
+    },
+    "mpract_valid_code": {
+      "Description": "Validation Code for entire Motor Praxis Test (MPRACT)",
+      "Levels": {
+        "N": "Invalid",
+        "F": "Likely invalid",
+        "V3": "Likely invalid",
+        "S": "Skipped"
+      }
+    },
+    "cnb_mpract_mp2":{
+      "Description": "MPRACT Total Correct Responses"
+    },
+    "cnb_mpract_mp2rtcr": {
+      "Description": "MPRACT Median Response Time for Correct Responses (ms)"
+    },
+    "cnb_mpract_mp_lrnr":{
+      "Description": "MPRACT Longest Run of Non-Responses"
+    },
+    "slnb2_90_valid_code":{
+      "Description": "Validation Code for entire Short Letter-N-Back Test- 2 Back Version (LNB)",
+      "Levels": {
+        "N": "Invalid",
+        "F": "Likely invalid",
+        "V3": "Likely invalid",
+        "S": "Skipped"
+      }
+    },
+    "cnb_lnb_tp": {
+      "Description": "LNB True Positive Responses for 0-BACK, 1-BACK and 2-BACK trials"
+    },
+    "cnb_lnb_fp": {
+      "Description": "LNB False Positive Responses for 0-BACK, 1-BACK and 2-BACK trials"
+    },
+    "cnb_lnb_rtc": {
+      "Description": "LNB Median Response Time for True Positive responses for 0-BACK, 1-BACK and 2-BACK response (ms)"
+    },
+    "cnb_lnb_mcr": {
+      "Description": "LNB True Positive Responses for 1-BACK and 2-BACK Trials"
+    },
+    "cnb_lnb_mrtc": {
+      "Description": "LNB Median Response Time for True Positive responses for 1-BACK and 2-BACK response (ms)"
+    },
+    "cnb_lnb_cnt_200": {
+      "Description": "LNB Total Count of Responses Under 200 milliseconds (ms)"
+    },
+    "cnb_lnb_lrnr": {
+      "Description": "LNB Longest Run of Same Responses"
+    },
+    "spvrt_a_valid_code": {
+        "Description": "Validation Code for entire Short Penn Logical Reasoning Test (PVRT)",
+        "Levels": {
+            "N": "Invalid",
+            "F": "Likely invalid",
+            "V3": "Likely invalid",
+            "S": "Skipped"
+      }
+    },
+    "cnb_pvrt_form": {
+        "Description": "Form of Penn Verbal Reasoning Test (PVRT)"
+    },
+    "cnb_pvrt_cr": {
+        "Description": "PVRT Total Correct Responses"
+    },
+    "cnb_pvrt_pc": {
+        "Description": "PVRT Percent Correct Responses"
+    },
+    "cnb_pvrt_rtto": {
+        "Description": "PVRT Median Response Time for All Responses (ms)"
+    },
+    "cnb_pvrt_rtcr": {
+        "Description": "PVRT Median Response Time for Correct Responses (ms)"
+    },
+    "cnb_pvrt_rter":{
+        "Description": "PVRT Median Response Time for Incorrect Responses (ms)"
+    },
+    "cnb_pvrt_cnt_200":{
+        "Description": "PVRT Total Count of Responses Under 200 milliseconds (ms)"
+    },
+    "cnb_pvrt_lrsr":{
+        "Description": "PVRT Longest Run of Same Responses"
+    },
+    "svolt_a_valid_code":{
+        "Description": "Validation Code for entire Short Visual Object Learning Test (VOLT)",
+        "Levels": {
+            "N": "Invalid",
+            "F": "Likely invalid",
+            "V3": "Likely invalid",
+            "S": "Skipped"
+        }
+    },
+    "cnb_volt_cr": {
+        "Description": "VOLT Total Correct Responses"
+    },
+    "cnb_volt_rtcr": {
+        "Description": "VOLT Median Response Time for Correct Responses (ms)"
+    },
+    "cnb_volt_w_rtcr": {
+        "Description": "VOLT Weighted Median Response Time for Correct Responses (ms)"
+    },
+    "cnb_volt_er":{
+        "Description": "VOLT Total Incorrect Responses"
+    },
+    "cnb_volt_rter": {
+        "Description": "VOLT Median Response Time for Incorrect Responses (ms)"
+    },
+    "cnb_volt_w_rter": {
+        "Description": "VOLT Weighted Median Response Time for Incorrect Responses (ms)"
+    },
+    "cnb_volt_rt": {
+        "Description": "VOLT Median Response Time for All Responses (ms)"
+    },
+    "cnb_volt_tp": {
+        "Description": "VOLT True Positive Responses"
+    },
+    "cnb_volt_tn": {
+        "Description": "VOLT True Negative Responses"
+    },
+    "cnb_volt_tprt": {
+        "Description": "VOLT Median Response Time for True Positive Responses (ms)"
+    },
+    "cnb_volt_tnrt": {
+        "Description": "VOLT Median Response Time for True Negative Responses (ms)"
+    },
+    "cnb_volt_fp": {
+        "Description": "VOLT False Positive Responses"
+    },
+    "cnb_volt_fn": {
+        "Description": "VOLT False Negative Responses"
+    },
+    "cnb_volt_fprt": {
+        "Description": "VOLT Median Response Time for False Positive Responses (ms)"
+    },
+    "cnb_volt_fnrt": {
+        "Description": "VOLT Median Response Time for False Negative Responses (ms)"
+    },
+    "cnb_volt_cnt_200": {
+        "Description": "VOLT Total Count of Responses Under 200 milliseconds (ms)"
+    },
+    "cnb_volt_lrsr": {
+        "Description": "VOLT Longest Run of Same Responses"
+    },
+    "pvt-b_valid_code": {
+        "Description": "Validation Code for entire Psychomotor Vigilance Test - 3 Minute Version (PVT)",
+        "Levels": {
+            "N": "Invalid",
+            "F": "Likely invalid",
+            "V3": "Likely invalid",
+            "S": "Skipped"
+        }
+    },
+    "cnb_pvt_cr": {
+        "Description": "PVT Total Correct Responses"
+    },
+    "cnb_pvt_pc": {
+        "Description": "PVT Percent Correct Responses"
+    },
+    "cnb_pvt_min_rt": {
+        "Description": "PVT Minimum Response Time (ms)"
+    },
+    "cnb_pvt_max_rt": {
+        "Description": "PVT Maximum Response Time (ms)"
+    },
+    "cnb_pvt_med_rt": {
+        "Description": "PVT Median Response Time (ms)"
+    },
+    "cnb_pvt_mean_rt": {
+        "Description": "PVT Mean Response Time (ms)"
+    },
+    "cnb_pvt_stdev_rt": {
+        "Description": "PVT Standard Deviation of Response Time (ms)"
+    },
+    "cnb_pvt_mean_rrt": {
+        "Description": "PVT Mean of Reciprocal Response Time (1000/ms)"
+    },
+    "cnb_pvt_stdev_rrt": {
+        "Description": "PVT Standard Deviation of Reciprocal Response Time (1000/ms)"
+    },
+    "cnb_pvt_cfs": {
+        "Description": "PVT Total Coincidental False Start Responses"
+    },
+    "cnb_pvt_fs": {
+        "Description": "PVT Total False Start Responses"
+    },
+    "cnb_pvt_cerr": {
+        "Description": "PVT Errors of Commission (False Starts and Coincidental False Starts)"
+    },
+    "cnb_pvt_bs": {
+        "Description": "PVT Total Button Stuck Responses"
+    },
+    "cnb_pvt_to": {
+        "Description": "PVT Total Number of Time Out Responses"
+    },
+    "trail_b_valid_code": {
+        "Description": "Validation Code for entire Penn Trailmaking Test B (TRAILS)",
+        "Levels": {
+            "N": "Invalid",
+            "F": "Likely invalid",
+            "V3": "Likely invalid",
+            "S": "Skipped"
+        }
+    },
+    "cnb_trails_rt": {
+        "Description": "TRAILS Median Response Time for All Trials (ms)"
+    },
+    "cnb_trails_cr": {
+        "Description": "TRAILS Total Correct Responses"
+    },
+    "cnb_trails_rtcr": {
+        "Description": "TRAILS Median Response Time for Correct Responses (ms)"
+    },
+    "cnb_trails_er": {
+        "Description": "TRAILS Total Incorrect Responses"
+    },
+    "cnb_trails_rter": {
+        "Description": "TRAILS Median Response Time for Incorrect Responses (ms)"
+    },
+    "cnb_trails_seq_er": {
+        "Description": "TRAILS Total Sequencing Errors"
+    },
+    "cnb_trails_sl_er": {
+        "Description": "TRAILS Total Set Loss Errors"
+    },
+    "cnb_trails_avg_rtcr": {
+        "Description": "TRAILS Mean Response Time for Correct Responses (ms)"
+    },
+    "cnb_trails_sd_rtcr": {
+        "Description": "TRAILS Standard Deviation of Median Response Time for Correct Responses (ms)"
+    },
+    "cnb_trails_avg_rter": {
+        "Description": "TRAILS Mean Response Time for Incorrect Responses (ms)"
+    },
+    "cnb_trails_sd_rter": {
+        "Description": "TRAILS Standard Deviation of Median Response Time for Incorrect Responses (ms)"
+    },
+    "s_aim_a_valid_code": {
+        "Description": "Validation Code for entire Abstraction, Inhibition, and Memory Test (AIM)",
+        "Levels": {
+            "N": "Invalid",
+            "F": "Likely invalid",
+            "V3": "Likely invalid",
+            "S": "Skipped"
+        }
+    },
+    "cnb_aim_aimtot": {
+        "Description": "AIM Total Correct Responses"
+    },
+    "cnb_aim_aimtotrt": {
+        "Description": "AIM Median Response Time for Correct Responses (ms)"
+    },
+    "s_digsym_valid_code": {
+        "Description": "Validation Code for entire Digit Symbol Test (DIGSYM)",
+        "Levels": {
+            "N": "Invalid",
+            "F": "Likely invalid",
+            "V3": "Likely invalid",
+            "S": "Skipped"
+        }
+    },
+    "cnb_digsym_dscor": {
+        "Description": "DIGSYM Total Correct Responses for Matching Trials"
+    },
+    "cnb_digsym_ds_tp": {
+        "Description": "DIGSYM True Positive Responses for Matching Trials"
+    },
+    "cnb_digsym_ds_tn": {
+        "Description": "DIGSYM True Negative Responses for Matching Trials"
+    },
+    "cnb_digsym_ds_fp": {
+        "Description": "DIGSYM False Positive Responses for Matching Trials"
+    },
+    "cnb_digsym_ds_fn": {
+        "Description": "DIGSYM False Negative Responses for Matching Trials"
+    },
+    "cnb_digsym_dscorrt": {
+        "Description": "DIGSYM Median Response Time for Correct Responses for Matching Trials (ms)"
+    },
+    "cnb_digsym_ds_tprt": {
+        "Description": "DIGSYM Median Response Time for True Positive Responses for Matching Trials (ms)"
+    },
+    "cnb_digsym_ds_tnrt": {
+        "Description": "DIGSYM Median Response Time for True Negative Responses for Matching Trials (ms)"
+    },
+    "cnb_digsym_ds_fprt": {
+        "Description": "DIGSYM Median Response Time for False Positive Responses for Matching Trials (ms)"
+    },
+    "cnb_digsym_ds_fnrt": {
+        "Description": "DIGSYM Median Response Time for False Negative Responses for Matching Trials (ms)"
+    },
+    "cnb_digsym_dsmemcr": {
+        "Description": "DIGSYM Total Correct Responses for Recall Trials"
+    },
+    "cnb_digsym_dsmemin": {
+        "Description": "DIGSYM Median Response Time for Correct Responses for Recall Trials (ms)"
+    },
+    "cnb_digsym_dsminrt": {
+        "Description": "DIGSYM Median Response Time for Incorrect Responses for Recall Trials (ms)"
+    },
+    "spcptnl108_valid_code": {
+        "Description": "Validation Code for entire Short Penn Continuous Performance Task - For Adaptive (CPTNL)",
+        "Levels": {
+            "N": "Invalid",
+            "F": "Likely invalid",
+            "V3": "Likely invalid",
+            "S": "Skipped"
+        }
+    },
+    "cnb_cptnl_number_tp": {
+        "Description": "CPTNL True Positive Responses for Number Trials"
+    },
+    "cnb_cptnl_number_fp": {
+        "Description": "CPTNL False Positive Responses for Number Trials"
+    },
+    "cnb_cptnl_number_tn": {
+        "Description": "CPTNL True Negative Responses for Number Trials"
+    },
+    "cnb_cptnl_number_fn": {
+        "Description": "CPTNL False Negative Responses for Number Trials"
+    },
+    "cnb_cptnl_number_tprt": {
+        "Description": "CPTNL Median Response Time for True Positive Responses for Number Trials (ms)"
+    },
+    "cnb_cptnl_number_fprt": {
+        "Description": "CPTNL Median Response Time for False Positive Responses for Number Trials (ms)"
+    },
+    "cnb_cptnl_letter_tp": {
+        "Description": "CPTNL True Positive Responses for Letter Trials"
+    },
+    "cnb_cptnl_letter_fp": {
+        "Description": "CPTNL False Positive Responses for Letter Trials"
+    },
+    "cnb_cptnl_letter_tn": {
+        "Description": "CPTNL True Negative Responses for Letter Trials"
+    },
+    "cnb_cptnl_letter_fn": {
+        "Description": "CPTNL False Negative Responses for Letter Trials"
+    },
+    "cnb_cptnl_letter_tprt": {
+        "Description": "CPTNL Median Response Time for True Positive Responses for Letter Trials (ms)"
+    },
+    "cnb_cptnl_letter_fprt": {
+        "Description": "CPTNL Median Response Time for False Positive Responses for Letter Trials (ms)"
+    },
+    "cnb_cptnl_total_fn": {
+        "Description": "CPTNL Total False Negatives"
+    },
+    "cnb_cptnl_total_fp": {
+        "Description": "CPTNL Total False Positives"
+    },
+    "cnb_cptnl_total_tp": {
+        "Description": "CPTNL Total True Positives"
+    },
+    "cnb_cptnl_total_tn": {
+        "Description": "CPTNL Total True Negatives"
+    },
+    "cnb_cptnl_total_tprt": {
+        "Description": "CPTNL Median Response Time for True Positive Number Responses (ms) and True Positive Letter Responses (ms)"
+    },
+    "cnb_cptnl_total_tprt_mean": {
+        "Description": "CPTNL Mean Response Time for True Positive Responses (ms)"
+    },
+    "cnb_cptnl_total_tprt_stdev": {
+        "Description": "CPTNL Standard Deviation Response Time for True Positive Responses (ms)"
+    },
+    "cnb_cptnl_total_fprt": {
+        "Description": "CPTNL Median Response Time for False Positive Number Responses (ms) and False Positive Letter Responses (ms)"
+    },
+    "cnb_cptnl_total_fprt_mean": {
+        "Description": "CPTNL Mean Response Time for False Positive Responses (ms)"
+    },
+    "cnb_cptnl_total_fprt_stdev": {
+        "Description": "CPTNL Standard Deviation Response Time for False Positive Responses (ms)"
+    },
+    "cnb_cptnl_number_rt": {
+        "Description": "CPTNL Median Response Time for All Number Responses (ms)"
+    },
+    "cnb_cptnl_letter_rt": {
+        "Description": "CPTNL Median Response Time for All Letter Responses (ms)"
+    },
+    "cnb_cptnl_total_rt": {
+        "Description": "CPTNL Median Response Time for All Responses (ms)"
+    },
+    "cnb_cptnl_total_rt_mean": {
+        "Description": "CPTNL Mean Response Time for All Responses (ms)"
+    },
+    "cnb_cptnl_total_rt_stdev": {
+        "Description": "CPTNL Standard Deviation Time for All Trial Responses (ms)"
+    },
+    "cnb_cptnl_total_sen": {
+        "Description": "CPTNL Sensitivity"
+    },
+    "cnb_cptnl_total_spec": {
+        "Description": "CPTNL Specificity"
+    },
+    "cnb_cptnl_total_rev_fp": {
+        "Description": "CPTNL Total Number Reversed Number Trial and Letter Trial False Positive Responses"
+    },
+    "cnb_cptnl_total_rev_fprt": {
+        "Description": "CPTNL Median Response Time for CPT Reversed Number Trial and Letter Trial False Positive Responses (ms)"
+    },
+    "cnb_cptnl_total_rev_fn": {
+        "Description": "CPTNL Total Number Reversed Number Trial and Letter Trial False Negative Responses"
+    },
+    "cnb_cptnl_total_frnr": {
+        "Description": "CPTNL Final Run of Non-Responses"
+    },
+    "cnb_cptnl_total_cnt_200": {
+        "Description": "CPTNL Total Count of Responses Under 200 milliseconds (ms)"
+    },
+    "cnb_cptnl_total_lrsr": {
+        "Description": "CPTNL Longest Run of Same Responses"
+    }
+}
