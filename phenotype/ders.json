@@ -7,51 +7,55 @@
     "ders_01": {
         "Description": "When I'm upset, I have difficulty getting work done",
         "Levels": {
-            "1": "Almost never (0-10%)",
-            "2": "Sometimes (11-35%)",
-            "3": "About half the time (36-65%)",
-            "4": "Most of the time (66-90%)",
-            "5": "Almost always (91-100%)"
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "About half the time",
+            "4": "Most of the time",
+            "5": "Almost always"
         }
     },
     "ders_02": {
         "Description": "When I'm upset, I believe that I will end up feeling very depressed",
         "Levels": {
-            "1": "Almost never (0-10%)",
-            "2": "Sometimes (11-35%)",
-            "3": "About half the time (36-65%)",
-            "4": "Most of the time (66-90%)",
-            "5": "Almost always (91-100%)"
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "About half the time",
+            "4": "Most of the time",
+            "5": "Almost always"
         }
     },
     "ders_03": {
         "Description": "When I'm upset, I have difficulty focusing on other things",
         "Levels": {
-            "1": "Almost never (0-10%)",
-            "2": "Sometimes (11-35%)",
-            "3": "About half the time (36-65%)",
-            "4": "Most of the time (66-90%)",
-            "5": "Almost always (91-100%)"
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "About half the time",
+            "4": "Most of the time",
+            "5": "Almost always"
         }
     },
     "ders_04": {
         "Description": "When I'm upset, I have difficulty concentrating",
         "Levels": {
-            "1": "Almost never (0-10%)",
-            "2": "Sometimes (11-35%)",
-            "3": "About half the time (36-65%)",
-            "4": "Most of the time (66-90%)",
-            "5": "Almost always (91-100%)"
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "About half the time",
+            "4": "Most of the time",
+            "5": "Almost always"
         }
     },
     "ders_05": {
         "Description": "When I'm upset, I have difficulty controlling my behaviors",
         "Levels": {
-            "1": "Almost never (0-10%)",
-            "2": "Sometimes (11-35%)",
-            "3": "About half the time (36-65%)",
-            "4": "Most of the time (66-90%)",
-            "5": "Almost always (91-100%)"
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "About half the time",
+            "4": "Most of the time",
+            "5": "Almost always"
         }
+    },
+    "ders_total_score": {
+        "Derivative": true,
+        "Description": "Global score comprised of the sum of all items"
     }
 }
