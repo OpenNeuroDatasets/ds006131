@@ -4,7 +4,7 @@
         "Instructions": "The following questions ask you about your personal experiences. We ask about your sensory, psychological, emotional, and social experiences. Some of these questions may seem to relate directly to your experiences and others may not. Based on your experiences within the past year, please choose how much you agree or disagree with the following statements: Definitely agree, Somewhat agree, Slightly agree, Not sure, Slightly disagree, Somewhat disagree, Definitely disagree. Please read each question carefully and choose the answer that best describes your experience.",
         "TermURL": "https://doi.org/10.1016/j.jaac.2023.07.706"
     },
-    "prime5_sr_01": {
+    "prime5_sr_1": {
         "Description": "I think that I have felt that there are odd or unusual things going on that I can't explain",
         "Levels": {
             "0": "Definitely disagree",
@@ -16,7 +16,7 @@
             "6": "Definitely agree"
         }
     },
-    "prime5_sr_02": {
+    "prime5_sr_2": {
         "Description": "I have had the experience of doing something differently because of my superstitions",
         "Levels": {
             "0": "Definitely disagree",
@@ -28,7 +28,7 @@
             "6": "Definitely agree"
         }
     },
-    "prime5_sr_03": {
+    "prime5_sr_3": {
         "Description": "I think that I may get confused at times whether something I experience or perceive may be real or may be just part of my imagination or dreams",
         "Levels": {
             "0": "Definitely disagree",
@@ -40,7 +40,7 @@
             "6": "Definitely agree"
         }
     },
-    "prime5_sr_04": {
+    "prime5_sr_4": {
         "Description": "I think I might feel like my mind is 'playing tricks on me' ",
         "Levels": {
             "0": "Definitely disagree",
@@ -52,7 +52,7 @@
             "6": "Definitely agree"
         }
     },
-    "prime5_sr_05": {
+    "prime5_sr_5": {
         "Description": "I think that I may hear my own thoughts being said out loud",
         "Levels": {
             "0": "Definitely disagree",
@@ -63,5 +63,9 @@
             "5": "Somewhat agree",
             "6": "Definitely agree"
         }
+    },
+    "prime5_sr_total_score": {
+        "Derivative": true,
+        "Description": "Global score comprised of the sum of all items"
     }
 }
