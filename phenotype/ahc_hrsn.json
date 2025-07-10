@@ -141,6 +141,7 @@
         "Description": "On average, how many minutes did you usually spend exercising at this level on one of those days?",
         "Levels": {
             "1": "0",
+            "10": "150 or greater",
             "2": "10",
             "3": "20",
             "4": "30",
@@ -148,8 +149,7 @@
             "6": "50",
             "7": "60",
             "8": "90",
-            "9": "120",
-            "10": "150 or greater"
+            "9": "120"
         }
     },
     "ahc_hrsn_25": {
@@ -164,6 +164,82 @@
         "Levels": {
             "0": "No",
             "1": "Yes"
+        }
+    },
+    "disabilities_domain_hrsn": {
+        "Derivative": true,
+        "Description": "Identifies whether the patient has a health-related social need (HRSN) related to a physical, mental, or emotional condition",
+        "Levels": {
+            "0": "Participant does have an HRSN in this domain",
+            "1": "Participant does not have an HRSN in this domain"
+        }
+    },
+    "education_domain_hrsn": {
+        "Derivative": true,
+        "Description": "Identifies whether the patient has a health-related social need (HRSN) related to schooling or training",
+        "Levels": {
+            "0": "Participant does have an HRSN in this domain",
+            "1": "Participant does not have an HRSN in this domain"
+        }
+    },
+    "family_community_support_domain_hrsn": {
+        "Derivative": true,
+        "Description": "Identifies whether the patient has a health-related social need (HRSN) related to their ability to perform daily activities independently and whether they feel isolated or alone",
+        "Levels": {
+            "0": "Participant does have an HRSN in this domain",
+            "1": "Participant does not have an HRSN in this domain"
+        }
+    },
+    "financial_strain_domain_hrsn": {
+        "Derivative": true,
+        "Description": "Identifies whether the patient has a health-related social need (HRSN) related to their ability to pay for basic necessities",
+        "Levels": {
+            "0": "Participant does have an HRSN in this domain",
+            "1": "Participant does not have an HRSN in this domain"
+        }
+    },
+    "food_domain_hrsn": {
+        "Derivative": true,
+        "Description": "Identifies whether the patient has a health-related social need (HRSN) related to purchasing food",
+        "Levels": {
+            "0": "Participant does have an HRSN in this domain",
+            "1": "Participant does not have an HRSN in this domain"
+        }
+    },
+    "living_situation_domain_hrsn": {
+        "Derivative": true,
+        "Description": "Identifies whether the patient has a health-related social need (HRSN) related to housing stability and/or housing quality",
+        "Levels": {
+            "0": "Participant does have an HRSN in this domain",
+            "1": "Participant does not have an HRSN in this domain"
+        }
+    },
+    "physical_activity_domain_hrsn": {
+        "Derivative": true,
+        "Description": "Identifies whether the patient has a health-related social need (HRSN) related to weekly exercise",
+        "Levels": {
+            "0": "Participant does have an HRSN in this domain",
+            "1": "Participant does not have an HRSN in this domain"
+        }
+    },
+    "total_hrsn": {
+        "Derivative": true,
+        "Description": "Total number of health-related social needs across domains"
+    },
+    "transportation_domain_hrsn": {
+        "Derivative": true,
+        "Description": "Identifies whether the patient has a health-related social need (HRSN) related to accessing reliable transportation",
+        "Levels": {
+            "0": "Participant does have an HRSN in this domain",
+            "1": "Participant does not have an HRSN in this domain"
+        }
+    },
+    "utilities_domain_hrsn": {
+        "Derivative": true,
+        "Description": "Identifies whether the patient has a health-related social need (HRSN) related to difficulty in paying utility bills",
+        "Levels": {
+            "0": "Participant does have an HRSN in this domain",
+            "1": "Participant does not have an HRSN in this domain"
         }
     }
 }
