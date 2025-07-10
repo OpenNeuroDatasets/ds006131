@@ -1,11 +1,56 @@
-participant_id	bisbas_reward_child_01	bisbas_reward_child_02	bisbas_reward_child_03	bisbas_reward_child_04	bisbas_reward_child_05	bis_bas_total_score
-sub-24630	1	0	0	1	0	2
-sub-24663	0	0	0	0	0	0
-sub-24684	0	0	0	0	0	0
-sub-60295	0	0	0	0	0	0
-sub-24683	1	1	0	0	0	2
-sub-24699	1	1	2	2	2	8
-sub-24696	2	0	0	1	1	4
-sub-24702	2	2	0	1	1	6
-sub-24697	1	0	1	0	1	3
-sub-24053	1	1	0	0	1	3
+{
+    "MeasurementToolMetadata": {
+        "Description": "BIS/BAS Reward Subscale Child",
+        "Instructions": "For each statement, please select the answer that best describes how true each statement is for you.",
+        "TermURL": "https://doi.org/10.1037/0022-3514.67.2.319"
+    },
+    "bisbas_reward_child_01": {
+        "Description": "I feel excited and full of energy when I get something that I want.",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "True",
+            "3": "Very true"
+        }
+    },
+    "bisbas_reward_child_02": {
+        "Description": "When I am doing well at something, I like to keep doing this.",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "True",
+            "3": "Very true"
+        }
+    },
+    "bisbas_reward_child_03": {
+        "Description": "I get thrilled when good things happen to me.",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "True",
+            "3": "Very true"
+        }
+    },
+    "bisbas_reward_child_04": {
+        "Description": "I get very excited when I would win a contest.",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "True",
+            "3": "Very true"
+        }
+    },
+    "bisbas_reward_child_05": {
+        "Description": "I get really excited when I see an opportunity to get something I like.",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "True",
+            "3": "Very true"
+        }
+    },
+    "bis_bas_total_score": {
+        "Derivative": true,
+        "Description": "Global score comprised of the sum of all items"
+    }
+}
