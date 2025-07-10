@@ -4,76 +4,80 @@
         "Instructions": "Over the last 7 days, how often have you been bothered by any of the following problems?",
         "TermURL": "https://doi.org/10.3928/0048-5713-20020901-06"
     },
-    "phq8_01": {
+    "phq8_1": {
         "Description": "Little interest or pleasure in doing things",
         "Levels": {
-            "0": "Not al all",
+            "0": "Not at all",
             "1": "Several days",
             "2": "More than half the days",
             "3": "Nearly every day"
         }
     },
-    "phq8_02": {
+    "phq8_2": {
         "Description": "Feeling down, depressed, or hopeless",
         "Levels": {
-            "0": "Not al all",
+            "0": "Not at all",
             "1": "Several days",
             "2": "More than half the days",
             "3": "Nearly every day"
         }
     },
-    "phq8_03": {
+    "phq8_3": {
         "Description": "Trouble falling asleep or staying asleep, or sleeping too much",
         "Levels": {
-            "0": "Not al all",
+            "0": "Not at all",
             "1": "Several days",
             "2": "More than half the days",
             "3": "Nearly every day"
         }
     },
-    "phq8_04": {
+    "phq8_4": {
         "Description": "Feeling tired or having little energy",
         "Levels": {
-            "0": "Not al all",
+            "0": "Not at all",
             "1": "Several days",
             "2": "More than half the days",
             "3": "Nearly every day"
         }
     },
-    "phq8_05": {
+    "phq8_5": {
         "Description": "Poor appetite or overeating",
         "Levels": {
-            "0": "Not al all",
+            "0": "Not at all",
             "1": "Several days",
             "2": "More than half the days",
             "3": "Nearly every day"
         }
     },
-    "phq8_06": {
+    "phq8_6": {
         "Description": "Feeling bad about yourself or feeling that you are a failure or have let yourself or your family down",
         "Levels": {
-            "0": "Not al all",
+            "0": "Not at all",
             "1": "Several days",
             "2": "More than half the days",
             "3": "Nearly every day"
         }
     },
-    "phq8_07": {
+    "phq8_7": {
         "Description": "Trouble concentrating on things, such as reading the newspaper or watching television",
         "Levels": {
-            "0": "Not al all",
+            "0": "Not at all",
             "1": "Several days",
             "2": "More than half the days",
             "3": "Nearly every day"
         }
     },
-    "phq8_08": {
+    "phq8_8": {
         "Description": "Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual",
         "Levels": {
-            "0": "Not al all",
+            "0": "Not at all",
             "1": "Several days",
             "2": "More than half the days",
             "3": "Nearly every day"
         }
+    },
+    "phq8_total_score": {
+        "Derivative": true,
+        "Description": "Global score comprised of the sum of all items"
     }
 }
