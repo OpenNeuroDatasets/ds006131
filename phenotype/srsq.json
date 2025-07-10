@@ -4,7 +4,7 @@
         "Instructions": "The questions in this scale ask you about your sleep habits. All questions refer to the previous two weeks.",
         "TermURL": "https://doi.org/10.1007/s10566-014-9256-z"
     },
-    "srsq_01": {
+    "srsq_1": {
         "Description": "Do you have trouble getting up in the morning?",
         "Levels": {
             "1": "No",
@@ -12,7 +12,7 @@
             "3": "Yes"
         }
     },
-    "srsq_02": {
+    "srsq_2": {
         "Description": "Do you feel sleepy during the day?",
         "Levels": {
             "1": "No",
@@ -20,7 +20,7 @@
             "3": "Yes"
         }
     },
-    "srsq_03": {
+    "srsq_3": {
         "Description": "Are you immediately wide awake when you wake up?",
         "Levels": {
             "1": "No",
@@ -28,7 +28,7 @@
             "3": "Yes"
         }
     },
-    "srsq_04": {
+    "srsq_4": {
         "Description": "When I am at school or work for a while I have trouble keeping my eyes open",
         "Levels": {
             "1": "No",
@@ -36,7 +36,7 @@
             "3": "Yes"
         }
     },
-    "srsq_05": {
+    "srsq_5": {
         "Description": "Do you have enough energy during the day to do everything?",
         "Levels": {
             "1": "No",
@@ -44,7 +44,7 @@
             "3": "Yes"
         }
     },
-    "srsq_06": {
+    "srsq_6": {
         "Description": "I am active during the day",
         "Levels": {
             "1": "Agree",
@@ -52,7 +52,7 @@
             "3": "Do not agree"
         }
     },
-    "srsq_07": {
+    "srsq_7": {
         "Description": "I have to struggle to stay awake in class or at work",
         "Levels": {
             "1": "Never",
@@ -60,7 +60,7 @@
             "3": "Often"
         }
     },
-    "srsq_08": {
+    "srsq_8": {
         "Description": "I don't feel like going to school or work because I feel too tired",
         "Levels": {
             "1": "This never happens",
@@ -68,12 +68,28 @@
             "3": "This happens more often than twice a week"
         }
     },
-    "srsq_09": {
+    "srsq_9": {
         "Description": "I am a person who does not get enough sleep",
         "Levels": {
             "1": "Agree",
             "2": "Partly agree",
             "3": "Do not agree"
         }
+    },
+    "srsq_loss_of_energy_total": {
+        "Derivative": true,
+        "Description": "Sum of the items comprising the 'loss of energy' subscale"
+    },
+    "srsq_shortness_of_sleep_total": {
+        "Derivative": true,
+        "Description": "Sum of the items comprising the 'shortness of sleep' subscale"
+    },
+    "srsq_sleepiness_total": {
+        "Derivative": true,
+        "Description": "Sum of the items comprising the 'sleepiness' subscale"
+    },
+    "srsq_total_score": {
+        "Derivative": true,
+        "Description": "Global score comprised of the sum of the 'shortness of sleep,' 'sleepiness,' and 'loss of energy' subscales"
     }
 }
