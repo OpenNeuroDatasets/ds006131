@@ -219,5 +219,17 @@
             "6": "Above average",
             "7": "Far above average"
         }
+    },
+    "eswan_adhd_hyperactivity_impulsivity_total": {
+        "Derivative": true,
+        "Description": "Sum of the items comprising the 'hyperactivity_impulsivity' subscale"
+    },
+    "eswan_adhd_inattention_total": {
+        "Derivative": true,
+        "Description": "Sum of the items comprising the 'inattention' subscale"
+    },
+    "eswan_adhd_total_score": {
+        "Derivative": true,
+        "Description": "Global score comprised of the sum of all items"
     }
 }
