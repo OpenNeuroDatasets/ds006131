@@ -60,12 +60,12 @@
             "2": "Certainly true"
         }
     },
+    "ari_comments": {
+        "Description": "If you wish to explain any of your answers to the above questions, please use the comment box below."
+    },
     "ari_avg": {
         "Derivative": true,
         "Description": "The average total score of all items"
-    },
-    "ari_comments": {
-        "Description": "If you wish to explain any of your answers to the above questions, please use the comment box below."
     },
     "ari_total_score": {
         "Derivative": true,
