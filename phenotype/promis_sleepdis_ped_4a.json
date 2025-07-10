@@ -4,7 +4,7 @@
         "Instructions": "Please respond to each statement. In the past seven days...",
         "TermURL": "https://doi.org/10.1080/15402002.2012.636266"
     },
-    "promis_sleepdis_ped_4a_01": {
+    "promis_sleepdis_ped_4a_1": {
         "Description": "I had difficulty falling asleep",
         "Levels": {
             "1": "Never",
@@ -14,7 +14,7 @@
             "5": "Always"
         }
     },
-    "promis_sleepdis_ped_4a_02": {
+    "promis_sleepdis_ped_4a_2": {
         "Description": "I slept through the night",
         "Levels": {
             "1": "Never",
@@ -24,7 +24,7 @@
             "5": "Always"
         }
     },
-    "promis_sleepdis_ped_4a_03": {
+    "promis_sleepdis_ped_4a_3": {
         "Description": "I had a problem with my sleep",
         "Levels": {
             "1": "Never",
@@ -34,7 +34,7 @@
             "5": "Always"
         }
     },
-    "promis_sleepdis_ped_4a_04": {
+    "promis_sleepdis_ped_4a_4": {
         "Description": "I had trouble sleeping",
         "Levels": {
             "1": "Never",
@@ -43,5 +43,13 @@
             "4": "Almost always",
             "5": "Always"
         }
+    },
+    "promis_sleepdis_ped_4a_raw_score": {
+        "Derivative": true,
+        "Description": "Sum of all of the responses to each item"
+    },
+    "promis_sleepdis_ped_4a_t_score": {
+        "Derivative": true,
+        "Description": "The T-score rescales the raw score into a standardized score with a mean of 50 and a standard deviation (SD) of 10"
     }
 }
