@@ -33,7 +33,7 @@
         }
     },
     "cats_07": {
-        "Description": "Seeing someone in the community get slapped,punched.",
+        "Description": "Seeing someone in the community get slapped, punched.",
         "Levels": {
             "0": "No",
             "1": "Yes"
@@ -66,5 +66,9 @@
             "0": "No",
             "1": "Yes"
         }
+    },
+    "cats_total_score": {
+        "Derivative": true,
+        "Description": "Global score comprised of the sum of all items"
     }
 }
