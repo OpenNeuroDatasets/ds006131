@@ -23,9 +23,6 @@ Each run includes 5 echoes and magnitude+phase reconstruction.
 Concurrent physiological recordings were acquired using a respiration belt and a pulse oximeter,
 although we have not performed quality control on these recordings yet.
 
-The dataset includes both the raw and NORDIC-denoised versions of the fMRI data,
-as NORDIC is not implemented in fMRIPrep yet.
-
 ### Diffusion MRI
 
 One 92-direction compressed sensing diffusion spectrum imaging (CS-DSI) run was acquired for all participants.
