@@ -1,1 +1,7 @@
-../../../.git/annex/objects/Fj/7F/SHA256E-s106--ff864528d5526fa990091d09f48bb60d6a77be01be8c852c0dc6c388b4f0a7a6.json/SHA256E-s106--ff864528d5526fa990091d09f48bb60d6a77be01be8c852c0dc6c388b4f0a7a6.json
+{
+    "Columns": [
+        "respiratory"
+    ],
+    "SamplingFrequency": 50.0,
+    "StartTime": -45.857
+}

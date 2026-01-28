@@ -1,1 +1,7 @@
-../../../.git/annex/objects/Pj/z7/SHA256E-s105--d4ee2422f334978367acf434c00ec353cfed07977fb01f7c9f1b5506319d34f3.json/SHA256E-s105--d4ee2422f334978367acf434c00ec353cfed07977fb01f7c9f1b5506319d34f3.json
+{
+    "Columns": [
+        "respiratory"
+    ],
+    "SamplingFrequency": 50.0,
+    "StartTime": 94.819
+}

@@ -1,1 +1,7 @@
-../../.git/annex/objects/f7/gM/SHA256E-s217--b7df0eb5373cbbf5e6ca28c7cd143e63a6840657a2e57318e5303bc3c6d4af32.json/SHA256E-s217--b7df0eb5373cbbf5e6ca28c7cd143e63a6840657a2e57318e5303bc3c6d4af32.json
+{
+    "AcqGroupInfo.txt Data Dictionary": {
+        "Long Description": "Acquisition Group Info",
+        "Description": "https://cubids.readthedocs.io/en/latest/usage.html",
+        "Version": "CuBIDS v1.0.5"
+    }
+}

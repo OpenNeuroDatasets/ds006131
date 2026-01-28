@@ -1,1 +1,7 @@
-../../../.git/annex/objects/5K/qP/SHA256E-s106--27e1bbf4ff1e1878e79727e1f0cbe5b1b13cc69fdc01f304ea005cc5200acbd5.json/SHA256E-s106--27e1bbf4ff1e1878e79727e1f0cbe5b1b13cc69fdc01f304ea005cc5200acbd5.json
+{
+    "Columns": [
+        "respiratory"
+    ],
+    "SamplingFrequency": 50.0,
+    "StartTime": 407.097
+}
