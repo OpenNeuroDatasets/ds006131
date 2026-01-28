@@ -1,1 +1,3 @@
-../../../.git/annex/objects/V0/w8/SHA256E-s134--dd0b5cc830d420687da22747623e290c8f7df9be73e9fb6c8674bbc9c5ecc7df.tsv/SHA256E-s134--dd0b5cc830d420687da22747623e290c8f7df9be73e9fb6c8674bbc9c5ecc7df.tsv
+onset	duration	trial_type	stimulus
+1.9287999748485163e-05	427.0965848150008	film	Bao
+427.1036256160005	2.0074833979997493	end_screen	
