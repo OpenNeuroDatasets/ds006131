@@ -7,8 +7,8 @@
         "Description": "I have been a shift- or night-worker in the past three months.",
         "Instructions": "The following section wil ask you questions in regards to your sleep and wake behavior on work- and work-free days. Please estimate an average of your 'normal' sleep behavior over the past 6 weeks.",
         "Levels": {
-            "1": "Yes",
-            "2": "No"
+            "0": "No",
+            "1": "Yes"
         }
     },
     "mctq_us_02": {

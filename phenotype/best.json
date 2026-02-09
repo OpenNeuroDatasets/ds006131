@@ -4,8 +4,78 @@
         "Instructions": "Choose the option that indicates how much the item has caused distress, relationship problems, or difficulty with getting things done over the past month.",
         "TermURL": "https://doi.org/10.1521/pedi.2009.23.3.281"
     },
-    "best_1": {
+    "best_01": {
         "Description": "Worrying that someone important in your life is tired of you or is planning to leave you.",
+        "Levels": {
+            "1": "None/slight",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Extreme"
+        }
+    },
+    "best_02": {
+        "Description": "Major shifts in your opinions about others such as switching from believing someone is a loyal friend or partner to believing the person is untrustworthy and hurtful.",
+        "Levels": {
+            "1": "None/slight",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Extreme"
+        }
+    },
+    "best_03": {
+        "Description": "Extreme changes in how you see yourself. Shifting from feeling confident about who you are to feeling like you are evil or that you don't even exist.",
+        "Levels": {
+            "1": "None/slight",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Extreme"
+        }
+    },
+    "best_04": {
+        "Description": "Severe mood swings several times a day. Minor events cause major shifts in moods.",
+        "Levels": {
+            "1": "None/slight",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Extreme"
+        }
+    },
+    "best_05": {
+        "Description": "Feeling paranoid or like you are losing touch with reality.",
+        "Levels": {
+            "1": "None/slight",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Extreme"
+        }
+    },
+    "best_06": {
+        "Description": "Feeling angry.",
+        "Levels": {
+            "1": "None/slight",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Extreme"
+        }
+    },
+    "best_07": {
+        "Description": "Feelings of emptiness",
+        "Levels": {
+            "1": "None/slight",
+            "2": "Mild",
+            "3": "Moderate",
+            "4": "Severe",
+            "5": "Extreme"
+        }
+    },
+    "best_09": {
+        "Description": "Going to extremes to try to keep someone from leaving you.",
         "Levels": {
             "1": "None/slight",
             "2": "Mild",
@@ -25,49 +95,49 @@
         }
     },
     "best_11_behaviors_1": {
-        "Description": "Over-spending",
+        "Description": "For above question, please check those behaviors that apply:",
         "Levels": {
-            "0": false,
-            "1": true
+            "0": "No",
+            "1": "Over-spending"
         }
     },
     "best_11_behaviors_2": {
-        "Description": "Risky sexual behavior",
+        "Description": "For above question, please check those behaviors that apply:",
         "Levels": {
-            "0": false,
-            "1": true
+       	    "0": "No",
+            "2": "Risky sexual behavior"
         }
     },
     "best_11_behaviors_3": {
-        "Description": "Substance abuse",
+        "Description": "For above question, please check those behaviors that apply:",
         "Levels": {
-            "0": false,
-            "1": true
+       	    "0": "No",
+            "3": "Substance abuse"
         }
     },
     "best_11_behaviors_4": {
-        "Description": "Reckless driving",
+        "Description": "For above question, please check those behaviors that apply:",
         "Levels": {
-            "0": false,
-            "1": true
+       	    "0": "No",
+            "4": "Reckless driving"
         }
     },
     "best_11_behaviors_5": {
-        "Description": "Binge eating",
+        "Description": "For above question, please check those behaviors that apply:",
         "Levels": {
-            "0": false,
-            "1": true
+       	    "0": "No",
+            "5": "Binge eating"
         }
     },
     "best_11_behaviors_other": {
-        "Description": "Other",
+        "Description": "For above question, please check those behaviors that apply:",
         "Levels": {
-            "0": false,
-            "1": true
+       	    "0": "No",
+            "Other": "Other"
         }
     },
     "best_11_other": {
-        "Description": "If you chose other in above question, please explain:"
+        "Description": "For above question, please check those behaviors that apply. If you chose other in above question, please explain:"
     },
     "best_12": {
         "Description": "Temper outbursts or problems with anger leading to relationship problems, physical fights, or destruction of property.",
@@ -78,87 +148,5 @@
             "4": "Severe",
             "5": "Extreme"
         }
-    },
-    "best_2": {
-        "Description": "Major shifts in your opinions about others such as switching from believing someone is a loyal friend or partner to believing the person is untrustworthy and hurtful.",
-        "Levels": {
-            "1": "None/slight",
-            "2": "Mild",
-            "3": "Moderate",
-            "4": "Severe",
-            "5": "Extreme"
-        }
-    },
-    "best_3": {
-        "Description": "Extreme changes in how you see yourself. Shifting from feeling confident about who you are to feeling like you are evil or that you don't even exist.",
-        "Levels": {
-            "1": "None/slight",
-            "2": "Mild",
-            "3": "Moderate",
-            "4": "Severe",
-            "5": "Extreme"
-        }
-    },
-    "best_4": {
-        "Description": "Severe mood swings several times a day. Minor events cause major shifts in moods.",
-        "Levels": {
-            "1": "None/slight",
-            "2": "Mild",
-            "3": "Moderate",
-            "4": "Severe",
-            "5": "Extreme"
-        }
-    },
-    "best_5": {
-        "Description": "Feeling paranoid or like you are losing touch with reality.",
-        "Levels": {
-            "1": "None/slight",
-            "2": "Mild",
-            "3": "Moderate",
-            "4": "Severe",
-            "5": "Extreme"
-        }
-    },
-    "best_6": {
-        "Description": "Feeling angry.",
-        "Levels": {
-            "1": "None/slight",
-            "2": "Mild",
-            "3": "Moderate",
-            "4": "Severe",
-            "5": "Extreme"
-        }
-    },
-    "best_7": {
-        "Description": "Feelings of emptiness",
-        "Levels": {
-            "1": "None/slight",
-            "2": "Mild",
-            "3": "Moderate",
-            "4": "Severe",
-            "5": "Extreme"
-        }
-    },
-    "best_9": {
-        "Description": "Going to extremes to try to keep someone from leaving you.",
-        "Levels": {
-            "1": "None/slight",
-            "2": "Mild",
-            "3": "Moderate",
-            "4": "Severe",
-            "5": "Extreme"
-        }
-    },
-    "best_behaviors_negative_total": {
-        "Derivative": true,
-        "Description": "Sum of the items comprising the 'behaviors negative' subscale"
-    },
-    "best_thoughts_feelings_total": {
-        "Derivative": true,
-        "Description": "Sum of the items comprising the 'thoughts and feelings' subscale"
-    },
-    "best_total_score": {
-        "Derivative": true,
-        "Description": "Global score comprised of the sum of the 'thoughts and feelings' and 'behaviors negative' subscales"
     }
 }

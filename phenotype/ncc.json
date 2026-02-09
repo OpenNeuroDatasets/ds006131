@@ -58,9 +58,5 @@
             "5": "Strongly disagree",
             "6": "Don't know"
         }
-    },
-    "ncc_avg_score": {
-        "Derivative": true,
-        "Description": "Average score of all items"
     }
 }

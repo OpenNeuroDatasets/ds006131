@@ -363,21 +363,5 @@
             "6": "Above average",
             "7": "Far above average"
         }
-    },
-    "eswan_dmdd_friends_total": {
-        "Derivative": true,
-        "Description": "Sum of the items pertaining to behaviors with friends"
-    },
-    "eswan_dmdd_home_total": {
-        "Derivative": true,
-        "Description": "Sum of the items pertaining to behaviors at home"
-    },
-    "eswan_dmdd_school_total": {
-        "Derivative": true,
-        "Description": "Sum of the items pertaining to behaviors at school"
-    },
-    "eswan_dmdd_total_score": {
-        "Derivative": true,
-        "Description": "Global score comprised of the sum of all behaviors that occur at home, with friends, and at school"
     }
 }

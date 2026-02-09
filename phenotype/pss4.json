@@ -4,7 +4,7 @@
         "Instructions": "The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate how often you felt or thought a certain way.",
         "TermURL": "https://www.jstor.org/stable/2136404"
     },
-    "pss4_1": {
+    "pss4_01": {
         "Description": "In the last month, how often have you felt that you were unable to control the important things in your life?",
         "Levels": {
             "0": "Never",
@@ -14,28 +14,8 @@
             "4": "Very often"
         }
     },
-    "pss4_2": {
+    "pss4_02": {
         "Description": "In the last month, how often have you felt confident about your ability to handle your personal problems?",
-        "Levels": {
-            "0": "Very often",
-            "1": "Fairly often",
-            "2": "Sometimes",
-            "3": "Almost never",
-            "4": "Never"
-        }
-    },
-    "pss4_3": {
-        "Description": "In the last month, how often have you felt that things were going your way?",
-        "Levels": {
-            "0": "Very often",
-            "1": "Fairly often",
-            "2": "Sometimes",
-            "3": "Almost never",
-            "4": "Never"
-        }
-    },
-    "pss4_4": {
-        "Description": "In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?",
         "Levels": {
             "0": "Never",
             "1": "Almost never",
@@ -44,8 +24,24 @@
             "4": "Very often"
         }
     },
-    "pss4_total": {
-        "Derivative": true,
-        "Description": "Global score comprised of the sum of all items"
+    "pss4_03": {
+        "Description": "In the last month, how often have you felt that things were going your way?",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "Fairly often",
+            "4": "Very often"
+        }
+    },
+    "pss4_04": {
+        "Description": "In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "Fairly often",
+            "4": "Very often"
+        }
     }
 }

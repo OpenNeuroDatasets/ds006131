@@ -62,13 +62,5 @@
     },
     "ari_comments": {
         "Description": "If you wish to explain any of your answers to the above questions, please use the comment box below."
-    },
-    "ari_avg": {
-        "Derivative": true,
-        "Description": "The average total score of all items"
-    },
-    "ari_total_score": {
-        "Derivative": true,
-        "Description": "Global score comprised of the sum of all items"
     }
 }
