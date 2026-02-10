@@ -75,6 +75,9 @@ These measures include the following:
 
 ### Actigraphy
 
+Anonymized binary actigraphy files are stored in `sourcedata/actigraphy`.
+GGIR outputs are stored in `derivatives/ggir`.
+
 ### Other data
 
 The acquisition date and time for each session was rounded to the 15th of the month and the nearest hour,
