@@ -4,7 +4,7 @@
         "Juliette B. H. Brook",
         "Taylor Salo",
         "Audrey C. Luo",
-        "Joëlle Bagautdinova",
+        "JoC+lle Bagautdinova",
         "Sage Rush",
         "Aaron F. Alexander-Bloch",
         "Erica B. Baller",
@@ -39,7 +39,7 @@
         "Theodore D. Satterthwaite"
     ],
     "BIDSVersion": "1.10.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds006131.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006131.v2.0.0",
     "DatasetType": "raw",
     "EthicsApprovals": [
         "IRB 844353"
@@ -56,11 +56,11 @@
         "BWF 1022955",
         "DP5OD036142"
     ],
-    "HowToAcknowledge": "Please cite the papers listed under ReferencesAndLinks if you use this dataset in your research.",
+    "HowToAcknowledge": "Please cite this paper: https://doi.org/10.52294/001c.151820",
     "License": "CC0",
     "Name": "PAFIN: PennLINC AFfective INstability",
     "ReferencesAndLinks": [
-        "TODO",
-        "List of papers or websites"
+        "https://doi.org/10.52294/001c.151820"
     ]
 }
+
