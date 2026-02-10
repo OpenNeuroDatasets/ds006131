@@ -1,0 +1,23 @@
+participant_id	measurementday	weekday	month	year	calendar_date	filename	start_time	bodylocation	n_valid_hours	n_hours
+sub-20188	1	Thursday	Jun	2025	2025-06-12	20188.bin	2025-06-12T18:45:00Z	left wrist	2.5	9.25
+sub-20188	2	Friday	Jun	2025	2025-06-13	20188.bin	2025-06-13T04:00:00Z	left wrist	13.25	24
+sub-20188	3	Saturday	Jun	2025	2025-06-14	20188.bin	2025-06-14T04:00:00Z	left wrist	9	24
+sub-20188	4	Sunday	Jun	2025	2025-06-15	20188.bin	2025-06-15T04:00:00Z	left wrist	4	24
+sub-20188	5	Monday	Jun	2025	2025-06-16	20188.bin	2025-06-16T04:00:00Z	left wrist	0	24
+sub-20188	6	Tuesday	Jun	2025	2025-06-17	20188.bin	2025-06-17T04:00:00Z	left wrist	0	24
+sub-20188	7	Wednesday	Jun	2025	2025-06-18	20188.bin	2025-06-18T04:00:00Z	left wrist	0	24
+sub-20188	8	Thursday	Jun	2025	2025-06-19	20188.bin	2025-06-19T04:00:00Z	left wrist	0	24
+sub-20188	9	Friday	Jun	2025	2025-06-20	20188.bin	2025-06-20T04:00:00Z	left wrist	0	24
+sub-20188	10	Saturday	Jun	2025	2025-06-21	20188.bin	2025-06-21T04:00:00Z	left wrist	0	24
+sub-20188	11	Sunday	Jun	2025	2025-06-22	20188.bin	2025-06-22T04:00:00Z	left wrist	0	24
+sub-20188	12	Monday	Jun	2025	2025-06-23	20188.bin	2025-06-23T04:00:00Z	left wrist	0	24
+sub-20188	13	Tuesday	Jun	2025	2025-06-24	20188.bin	2025-06-24T04:00:00Z	left wrist	0	24
+sub-20188	14	Wednesday	Jun	2025	2025-06-25	20188.bin	2025-06-25T04:00:00Z	left wrist	0	24
+sub-20188	15	Thursday	Jun	2025	2025-06-26	20188.bin	2025-06-26T04:00:00Z	left wrist	0	24
+sub-20188	16	Friday	Jun	2025	2025-06-27	20188.bin	2025-06-27T04:00:00Z	left wrist	0	24
+sub-20188	17	Saturday	Jun	2025	2025-06-28	20188.bin	2025-06-28T04:00:00Z	left wrist	0	24
+sub-20188	18	Sunday	Jun	2025	2025-06-29	20188.bin	2025-06-29T04:00:00Z	left wrist	0	24
+sub-20188	19	Monday	Jun	2025	2025-06-30	20188.bin	2025-06-30T04:00:00Z	left wrist	0	24
+sub-20188	20	Tuesday	Jul	2025	2025-07-01	20188.bin	2025-07-01T04:00:00Z	left wrist	0	24
+sub-20188	21	Wednesday	Jul	2025	2025-07-02	20188.bin	2025-07-02T04:00:00Z	left wrist	0	24
+sub-20188	22	Thursday	Jul	2025	2025-07-03	20188.bin	2025-07-03T04:00:00Z	left wrist	0	14.25
