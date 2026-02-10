@@ -1,0 +1,57 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Difficulties in Emotion Regulation Scale",
+        "Instructions": "Please indicate how often the following apply to you.",
+        "TermURL": "https://doi.org/10.1023/B:JOBA.0000007455.08539.94"
+    },
+    "ders_01": {
+        "Description": "When I'm upset, I have difficulty getting work done",
+        "Levels": {
+            "1": "Almost never (0-10%)",
+            "2": "Sometimes (11-35%)",
+            "3": "About half the time (36-65%)",
+            "4": "Most of the time (66-90%)",
+            "5": "Almost always (91-100%)"
+        }
+    },
+    "ders_02": {
+        "Description": "When I'm upset, I believe that I will end up feeling very depressed",
+        "Levels": {
+            "1": "Almost never (0-10%)",
+            "2": "Sometimes (11-35%)",
+            "3": "About half the time (36-65%)",
+            "4": "Most of the time (66-90%)",
+            "5": "Almost always (91-100%)"
+        }
+    },
+    "ders_03": {
+        "Description": "When I'm upset, I have difficulty focusing on other things",
+        "Levels": {
+            "1": "Almost never (0-10%)",
+            "2": "Sometimes (11-35%)",
+            "3": "About half the time (36-65%)",
+            "4": "Most of the time (66-90%)",
+            "5": "Almost always (91-100%)"
+        }
+    },
+    "ders_04": {
+        "Description": "When I'm upset, I have difficulty concentrating",
+        "Levels": {
+            "1": "Almost never (0-10%)",
+            "2": "Sometimes (11-35%)",
+            "3": "About half the time (36-65%)",
+            "4": "Most of the time (66-90%)",
+            "5": "Almost always (91-100%)"
+        }
+    },
+    "ders_05": {
+        "Description": "When I'm upset, I have difficulty controlling my behaviors",
+        "Levels": {
+            "1": "Almost never (0-10%)",
+            "2": "Sometimes (11-35%)",
+            "3": "About half the time (36-65%)",
+            "4": "Most of the time (66-90%)",
+            "5": "Almost always (91-100%)"
+        }
+    }
+}

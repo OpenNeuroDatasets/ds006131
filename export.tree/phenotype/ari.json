@@ -1,0 +1,66 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Affective Reactivity Index",
+        "Instructions": "In the last six months and compared to others of the same age, how well does each of the following statements describe your behavior/feelings? Please try to answer all questions.",
+        "TermURL": "https://doi.org/10.1111/j.1469-7610.2012.02561.x"
+    },
+    "ari_01": {
+        "Description": "Easily annoyed by others",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "Certainly true"
+        }
+    },
+    "ari_02": {
+        "Description": "Often lose temper",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "Certainly true"
+        }
+    },
+    "ari_03": {
+        "Description": "Stay angry for a long time",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "Certainly true"
+        }
+    },
+    "ari_04": {
+        "Description": "Angry most of the time",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "Certainly true"
+        }
+    },
+    "ari_05": {
+        "Description": "Get angry frequently",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "Certainly true"
+        }
+    },
+    "ari_06": {
+        "Description": "Lose temper easily",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "Certainly true"
+        }
+    },
+    "ari_07": {
+        "Description": "Overall, irritability causes me problems",
+        "Levels": {
+            "0": "Not true",
+            "1": "Somewhat true",
+            "2": "Certainly true"
+        }
+    },
+    "ari_comments": {
+        "Description": "If you wish to explain any of your answers to the above questions, please use the comment box below."
+    }
+}

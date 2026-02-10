@@ -1,0 +1,177 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Accountable Health Communities Health-Related Social Needs Screening Tool",
+        "TermURL": "https://nam.edu/perspectives/standardized-screening-for-health-related-social-needs-in-clinical-settings-the-accountable-health-communities-screening-tool/"
+    },
+    "ahc_hrsn_01": {
+        "Description": "What is your living situation today?",
+        "Levels": {
+            "1": "I have a steady place to live",
+            "2": "I have a place to live today, but I am worried about losing it in the future",
+            "3": "I do not have a steady place to live (I am temporarily staying with others, in a hotel, in a shelter, living outside on the street, on a beach, in a car, abandoned building, bus or train station, or in a park)"
+        }
+    },
+    "ahc_hrsn_02_0": {
+        "Description": "Think about the place you live. Do you have problems with any of the following? Choose all that apply.",
+        "Levels": {
+            "0": "None of the above",
+            "1": "One or more of the above."
+        }
+    },
+    "ahc_hrsn_02_1": {
+        "Description": "Think about the place you live. Do you have problems with any of the following? Choose all that apply.",
+        "Levels": {
+            "0": "No",
+            "1": "Pests such as bugs, ants, or mice"
+        }
+    },
+    "ahc_hrsn_02_2": {
+        "Description": "Think about the place you live. Do you have problems with any of the following? Choose all that apply.",
+        "Levels": {
+            "0": "No",
+            "1": "Mold"
+        }
+    },
+    "ahc_hrsn_02_3": {
+        "Description": "Think about the place you live. Do you have problems with any of the following? Choose all that apply.",
+        "Levels": {
+            "0": "No",
+            "1": "Lead paint or pipes"
+        }
+    },
+    "ahc_hrsn_02_4": {
+        "Description": "Think about the place you live. Do you have problems with any of the following? Choose all that apply.",
+        "Levels": {
+       	    "0": "No",
+            "1": "Lack of heat"
+        }
+    },
+    "ahc_hrsn_02_5": {
+        "Description": "Think about the place you live. Do you have problems with any of the following? Choose all that apply.",
+        "Levels": {
+       	    "0": "No",
+            "1": "Oven or stove not working"
+        }
+    },
+    "ahc_hrsn_02_6": {
+        "Description": "Think about the place you live. Do you have problems with any of the following? Choose all that apply.",
+        "Levels": {
+       	    "0": "No",
+            "1": "Smoke detectors missing or not working"
+        }
+    },
+    "ahc_hrsn_02_7": {
+        "Description": "Think about the place you live. Do you have problems with any of the following? Choose all that apply.",
+        "Levels": {
+       	    "0": "No",
+            "1": "Water leaks"
+        }
+    },
+    "ahc_hrsn_03": {
+        "Description": "Some people have made the following statements about their food situation. Please answer whether the statements were OFTEN TRUE, SOMETIMES TRUE, or NEVER TRUE for you and your household in the last 12 months. Within the past 12 months, you worried that your food would run out before you got money to buy more.",
+        "Levels": {
+            "1": "Often true",
+            "2": "Sometimes true",
+            "3": "Never true"
+        }
+    },
+    "ahc_hrsn_04": {
+        "Description": "Some people have made the following statements about their food situation. Please answer whether the statements were OFTEN TRUE, SOMETIMES TRUE, or NEVER TRUE for you and your household in the last 12 months. Within the past 12 months, the food you bought just didn't last and you didn't have money to get more.",
+        "Levels": {
+            "1": "Often true",
+            "2": "Sometimes true",
+            "3": "Never true"
+        }
+    },
+    "ahc_hrsn_05": {
+        "Description": "In the past 12 months, has lack of reliable transportation kept you from medical appointments, meetings, work or from getting things needed for daily living?",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ahc_hrsn_06": {
+        "Description": "In the past 12 months has the electric, gas, oil, or water company threatened to shut off services in your home?",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Already shut off"
+        }
+    },
+    "ahc_hrsn_11": {
+        "Description": "How hard is it for you to pay for the very basics like food, housing, medical care, and heating? Would you say it is...",
+        "Levels": {
+            "1": "Very hard",
+            "2": "Somewhat hard",
+            "3": "Not hard at all"
+        }
+    },
+    "ahc_hrsn_13": {
+        "Description": "If for any reason you need help with day-to-day activities such as bathing, preparing meals, shopping, managing finances, etc., do you get the help you need?",
+        "Levels": {
+            "1": "I don't need any help",
+            "2": "I get all the help I need",
+            "3": "I could use a little more help",
+            "4": "I need a lot more help"
+        }
+    },
+    "ahc_hrsn_14": {
+        "Description": "How often do you feel lonely or isolated from those around you?",
+        "Levels": {
+            "1": "Never",
+            "2": "Rarely",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always"
+        }
+    },
+    "ahc_hrsn_15": {
+        "Description": "Do you speak a language other than English at home?",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ahc_hrsn_17": {
+        "Description": "In the last 30 days, other than the activities you did for work, on average, how many days per week did you engage in moderate exercise (like walking fast, running, jogging, dancing, swimming, biking, or other similar activities)?",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7"
+        }
+    },
+    "ahc_hrsn_18": {
+        "Description": "On average, how many minutes did you usually spend exercising at this level on one of those days?",
+        "Levels": {
+            "1": "0",
+            "2": "10",
+            "3": "20",
+            "4": "30",
+            "5": "40",
+            "6": "50",
+            "7": "60",
+            "8": "90",
+            "9": "120",
+            "10": "150 or greater"
+        }
+    },
+    "ahc_hrsn_25": {
+        "Description": "Because of a physical, mental, or emotional condition, do you have serious difficulty concentrating, remembering, or making decisions?",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ahc_hrsn_26": {
+        "Description": "Because of a physical, mental, or emotional condition, do you have difficulty doing errands alone such as visiting a doctor's office or shopping?",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}
