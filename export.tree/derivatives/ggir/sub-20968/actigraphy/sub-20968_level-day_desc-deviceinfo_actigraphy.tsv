@@ -1,0 +1,23 @@
+participant_id	measurementday	weekday	month	year	calendar_date	filename	start_time	bodylocation	n_valid_hours	n_hours
+sub-20968	1	Wednesday	Jul	2025	2025-07-09	20968.bin	2025-07-09T20:30:00Z	left wrist	7.5	7.5
+sub-20968	2	Thursday	Jul	2025	2025-07-10	20968.bin	2025-07-10T04:00:00Z	left wrist	4.25	24
+sub-20968	3	Friday	Jul	2025	2025-07-11	20968.bin	2025-07-11T04:00:00Z	left wrist	0	24
+sub-20968	4	Saturday	Jul	2025	2025-07-12	20968.bin	2025-07-12T04:00:00Z	left wrist	4.5	24
+sub-20968	5	Sunday	Jul	2025	2025-07-13	20968.bin	2025-07-13T04:00:00Z	left wrist	13.5	24
+sub-20968	6	Monday	Jul	2025	2025-07-14	20968.bin	2025-07-14T04:00:00Z	left wrist	15.25	24
+sub-20968	7	Tuesday	Jul	2025	2025-07-15	20968.bin	2025-07-15T04:00:00Z	left wrist	0	24
+sub-20968	8	Wednesday	Jul	2025	2025-07-16	20968.bin	2025-07-16T04:00:00Z	left wrist	0	24
+sub-20968	9	Thursday	Jul	2025	2025-07-17	20968.bin	2025-07-17T04:00:00Z	left wrist	0	24
+sub-20968	10	Friday	Jul	2025	2025-07-18	20968.bin	2025-07-18T04:00:00Z	left wrist	0	24
+sub-20968	11	Saturday	Jul	2025	2025-07-19	20968.bin	2025-07-19T04:00:00Z	left wrist	0	24
+sub-20968	12	Sunday	Jul	2025	2025-07-20	20968.bin	2025-07-20T04:00:00Z	left wrist	0	24
+sub-20968	13	Monday	Jul	2025	2025-07-21	20968.bin	2025-07-21T04:00:00Z	left wrist	0	24
+sub-20968	14	Tuesday	Jul	2025	2025-07-22	20968.bin	2025-07-22T04:00:00Z	left wrist	0	24
+sub-20968	15	Wednesday	Jul	2025	2025-07-23	20968.bin	2025-07-23T04:00:00Z	left wrist	0	24
+sub-20968	16	Thursday	Jul	2025	2025-07-24	20968.bin	2025-07-24T04:00:00Z	left wrist	0	24
+sub-20968	17	Friday	Jul	2025	2025-07-25	20968.bin	2025-07-25T04:00:00Z	left wrist	0	24
+sub-20968	18	Saturday	Jul	2025	2025-07-26	20968.bin	2025-07-26T04:00:00Z	left wrist	0	24
+sub-20968	19	Sunday	Jul	2025	2025-07-27	20968.bin	2025-07-27T04:00:00Z	left wrist	0	24
+sub-20968	20	Monday	Jul	2025	2025-07-28	20968.bin	2025-07-28T04:00:00Z	left wrist	0	24
+sub-20968	21	Tuesday	Jul	2025	2025-07-29	20968.bin	2025-07-29T04:00:00Z	left wrist	0	24
+sub-20968	22	Wednesday	Jul	2025	2025-07-30	20968.bin	2025-07-30T04:00:00Z	left wrist	0	2

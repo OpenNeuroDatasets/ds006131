@@ -1,0 +1,480 @@
+{
+    "TaskName": "Evening Assessment",
+    "Description": "This assessment will ask you questions about your day and your health and diet over the day. You should complete this assessment once every evening right shortly before you go to bed.",
+    "weekday": {
+        "LongName": "weekday",
+        "Description": "The day of the week when the survey was completed",
+        "Levels": {
+            "Sunday": "Sunday",
+            "Monday": "Monday",
+            "Tuesday": "Tuesday",
+            "Wednesday": "Wednesday",
+            "Thursday": "Thursday",
+            "Friday": "Friday",
+            "Saturday": "Saturday"
+        }
+    },
+    "month":{
+        "LongName": "month",
+        "Description": "The day of the month when the survey was completed",
+        "Levels": {
+            "Jan": "January",
+            "Feb": "February",
+            "Mar": "March",
+            "Apr": "April",
+            "Jun": "June",
+            "Jul": "July",
+            "Aug": "August",
+            "Sep": "September",
+            "Oct": "October",
+            "Nov": "November",
+            "Decr": "December"
+        }
+    },
+    "year": {
+        "LongName": "year",
+        "Description": "The year when the survey was completed"
+    },
+    "survey_day": {
+        "LongName": "survey_day",
+        "Description": "The day of the 2-week EMA procedure in which the day was completed"
+    },
+    "start_time": {
+        "LongName": "start_time",
+        "Description": "The time when the participant began the survey"
+    },
+    "end_time": {
+        "LongName": "end_time",
+        "Description": "The time when the participant completed the survey"
+    },
+    "sched_time": {
+        "LongName": "sched_time",
+        "Description": "The time when the survey was first assigned to the participant"
+    },
+    "activity_name": {
+        "LongName": "activity_name",
+        "Description": "The survey that the participant completed at the given time of day",
+        "Levels": {
+            "Morning Assessment": "Morning Survey",
+            "Mid-day Assessment": "Mid-day Survey", 
+            "Afternoon Assessment": "Afternoon Survey",
+            "Evening Assessment": "Evening Survey"
+        }
+    },
+    "now_where": {
+        "LongName": "now_where",
+        "Description": "Where are you right now?",
+        "Levels": {
+            "0": "Inside", 
+            "1": "Outside"
+        }
+    },
+    "now_inside": {
+        "LongName": "now_inside",
+        "Description":"Are you:",
+        "Levels": {
+            "1": "In your home", 
+            "2": "In home of relative or friend",
+            "3": "At work or in class",
+            "4": "In a restaurant bar or in a store",
+            "5": "In a gym or fitness center",
+            "6": "In a hospital or doctors office",
+            "7": " Other place inside"
+        }
+    },
+    "now_company": {
+        "LongName": "now_company",
+        "Description": "Who are you with right now?",
+        "Levels": {
+            "1": "No one", 
+            "2": " A family member",
+            "3": "Your romantic partner", 
+            "4": "Friends", 
+            "5": "Colleagues or classmates",
+            "6": "Strangers",
+            "7": "Healthcare provider",
+            "8": "Pets"
+        }
+    },
+    "now_activity": {
+        "LongName": "now_activity",
+        "Description": "What are you doing right now?",
+        "Levels": {
+            "1": "Working or studying",
+            "2": "Socializing in person",
+            "3": "Using your phone",
+            "4": "Watching TV, videos, playing video games or reading",
+            "5": "Traveling or commuting",
+            "6": "Household chores or shopping",
+            "7": "Physical exercise",
+            "8": "Eating or drinking",
+            "9": "Personal hygiene care",
+            "10": "Medical procedure or treatment",
+            "11": "Nothing or resting", 
+            "12": "Other activity"
+        }
+    },
+    "since_internet": {
+        "LongName": "since_internet",
+        "Description": "Since the last assessment, how much time did you spend on a computer, tablet, or smartphone, or watching TV?",
+        "Levels": {
+            "0": " I did not use a computer  tablet  phone  or watch TV",
+            "1": "Less than 1 hour",
+            "2": "1-2 hours",
+            "3": "2-3 hours",
+            "4": "3-4 hours",
+            "5": "More than 4 hours"
+        }
+    },
+    "now_sadness": {
+        "LongName": "now_sadness",
+        "Description": "How happy vs. sad do you feel right now?",
+        "Levels": {
+            "1": "Very cheerful/happy",
+            "2": "Cheerful/happy",
+            "3": "Somewhat cheerful/happy",
+            "4": "Neutral",
+            "5": "Somewhat sad/depressed/unhappy",
+            "6": "Sad/depressed/unhappy",
+            "7": "Very sad/depressed/unhappy"
+        }
+    },
+    "now_anxiousness": {
+        "LongName": "now_anxiousness", 
+        "Description": "How calm/relaxed versus nervous/anxious do you feel right now?",
+        "Levels": {
+            "1": "Very calm/relaxed",
+            "2": "Calm/relaxed",
+            "3": "Somewhat calm/relaxed",
+            "4": "Neutral",
+            "5": "Somewhat nervous/anxious",
+            "6": "Nervous/anxious",
+            "7": "Very nervous/anxious"
+        }
+    },
+    "now_active": {
+        "LongName": "now_active",
+        "Description": "How inactive vs. active do you feel right now?", 
+        "Levels": {
+            "1": "Very inactive/quiet",
+            "2": "Inactive/quiet",
+            "3": "Somewhat calm/relaxed",
+            "4": "Neutral",
+            "5": "Somewhat nervous/anxious",
+            "6": "Nervous/anxious",
+            "7": "Very nervous/anxious"
+        }
+    },
+    "now_tired": {
+        "LongName": "now_tired",
+        "Description": "How tired vs. energetic do you feel right now?",
+        "Levels": {
+            "1": "Very tired/sluggish",
+            "2": "Tired/sluggish",
+            "3": "Somewhat tired/sluggish",
+            "4": "Neutral",
+            "5": "Somewhat energetic/lively",
+            "6": "Energetic/lively",
+            "7": "Very energetic/lively"
+        }
+    },
+    "now_thoughts_positive": {
+        "LongName": "now_thoughts_positive",
+        "Description": "To what extent are you having positive thoughts or thinking about nice experiences?",
+        "Levels": {
+            "1": "No positive thoughts at all", 
+            "2": "1 positive thought",
+            "3": "2 positive thoughts",
+            "4": "3 positive thoughts",
+            "5": "4 positive thoughts",
+            "6": "5 positive thoughts",
+            "7": "Many positive thoughts (6+)"
+        }
+    },
+    "now_thoughts_negative": {
+        "LongName": "now_thoughts_negative",
+        "Description": "To what extent are you having negative thoughts or thinking about unpleasant experiences?",
+        "Levels": {
+            "1": "No negative thoughts at all", 
+            "2": "1 negative thought",
+            "3": "2 negative thoughts",
+            "4": "3 negative thoughts",
+            "5": "4 negative thoughts",
+            "6": "5 negative thoughts",
+            "7": "Many negative thoughts (6+)"
+        }
+    },
+    "instructions": {
+        "LongName": "instructions",
+        "Description": "Here we want to know what actually happened in your life since the last assessment. Since the last assessment, what event - good or bad - affected you most? Please describe briefly."
+    },
+    "event_emotion": {
+        "LongName": "event_emotion", 
+        "Description": "Was this event generally positive or negative?",
+        "Levels": {
+            "1": "Extremely positive", 
+            "2": "Very positive",
+            "3": "Somewhat positive",
+            "4": "Neutral",
+            "5": "Somewhat negative",
+            "6": "Very negative",
+            "7": "Extremely negative"
+        }
+    },
+    "event_category": {
+        "LongName": "event_category",
+        "Description": "Which category best describes the area of your life in which the event occurred?",
+        "Levels": {
+            "1": "Social interactions in-person", 
+            "2": "Social interactions online on the phone",
+            "3": "Accomplishment getting things done",
+            "4": "Health event or medical care",
+            "5": "Learning about or witnessing something upsetting or something heartwarming ",
+            "6": "Other"
+        }
+    },
+    "event_stress": {
+        "LongName": "event_stress", 
+        "Description": "To what degree was this event stressful for you?",
+        "Levels": {
+            "1": "Not at all stressful", 
+            "2": "Not really stressful",
+            "3": "A little bit stressful",
+            "4": "Fairly stressful",
+            "5": "Stressful",
+            "6": "Very stressful",
+            "7": "Extremely stressful"
+        }
+    },
+    "since_physical_activity": {
+        "LongName": "since_physical_activity", 
+        "Description": "Please select the level of activities that you have done since the last assessment or since you woke up if this is your first assessment of the day:",
+        "Levels": {
+            "1": "Vigorous activities e.g. running fast cycling, heavy lifting or digging",
+            "2": "Moderate activities e.g. bicycling, carrying light loads",
+            "3": "Light activities e.g. walking, climbing stairs, routine household chores",
+            "4": "Sedentary activites e.g. napping, resting or sitting"
+        }
+    },
+    "since_light_activity": {
+        "LongName": "since_light_activity",
+        "Description": "Since the last assessment, how many minutes did you do light activities (such as walking, climbing stairs, routine household chores)?",
+        "Levels": {
+            "0": "About 5 Minutes or Less",
+            "1": "About 10 Minutes",
+            "2": "About 20 Minutes",
+            "3": "About 30 Minutes",
+            "4": "About 40 Minutes",
+            "5": "About 50 Minutes",
+            "6": "More Than 1 Hour"
+        }
+    },
+    "since_had_drink": {
+        "LongName": "since_had_drink",
+        "Description": "Since the last assessment, did you drink:",
+        "Levels": {
+            "1": "Water", 
+            "2": "Milk",
+            "3": "A caffeinated beverage like coffee, tea or soda",
+            "4": "An alcoholic beverage like wine, beer or liquor",
+            "5": "A beverage containing sugar like juice or caffeine free soda",
+            "6": "Another type of drink",
+            "7": "I did not drink"
+        }
+    },
+    "not_alcohol_amount": {
+        "LongName": "not_alcohol_amount",
+        "Description": "How many 8-oz glasses of non-alcoholic fluids did you consume?",
+        "Levels": {
+            "1": "1 8-oz Glass", 
+            "2": "2 8-oz Glasses",
+            "3": "3 8-oz Glasses",
+            "4": "4 8-oz Glasses ",
+            "5": "5 8-oz Glasses ",
+            "6": "6 8-oz Glasses",
+            "7": "7 8-oz Glasses",
+            "8": "8 8-oz Glasses",
+            "9": "9 8-oz Glasses",
+            "10": "10 or More 8-oz Glasses"
+        }
+    },
+    "since_times_eat": {
+        "LongName": "since_times_eat",
+        "Description": "How many times have you eaten since the last assessment?",
+        "Levels": {
+            "0": "None",
+            "1": "1", 
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10"
+        }
+    },
+    "now_pain": {
+        "LongName": "now_pain",
+        "Description": "Are you in pain right now?",
+        "Levels": {
+            "1": "No pain", 
+            "2": "Not really in pain",
+            "3": "A little bit in pain",
+            "4": "Fairly in pain",
+            "5": "In pain",
+            "6": "Very in pain",
+            "7": "Extreme pain"
+        }
+    },
+    "since_pain": {
+        "LongName": "since_pain", 
+        "Description": "Have you experienced pain since the last assessment?",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "day_physical_health": {
+        "LongName": "day_physical_health",
+        "Description": "How was your physical health today?",
+        "Levels": {
+            "1": "Very poor", 
+            "2": "Fairly poor",
+            "3": "Poor",
+            "4": "Neutral",
+            "5": "Fairly good",
+            "6": "Good",
+            "7": "Very good/excellent"
+        }
+    },
+    "day_problem_categories": {
+        "LongName": "day_problem_categories",
+        "Description": "Did you have any of the following problems today?",
+        "Levels": {
+            "1": "Allergies", 
+            "2": "Asthma or breathing difficulties",
+            "3": "Gastrointestinal, bowel or stomach problems",
+            "4": "Muscle/joint pain",
+            "5": "Heart racing or pounding",
+            "6": "Feeling faint or dizzy",
+            "7": "Fever/Cold",
+            "8": "None of the above"
+        }
+    },
+    "day_bother": {
+        "LongName": "day_bother",
+        "Description": "How much did these problems bother you today?",
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Mildly",
+            "3": "Moderately",
+            "4": "Severely"
+        }
+    },
+    "now_outside": {
+        "LongName": "now_outside",
+        "Description": "Are you:",
+        "Levels": {
+            "1": "In a public park or garden",
+            "2": "In your yard or at home",
+            "3": "In your neighborhood",
+            "4": "At school",
+            "5": "In a vehicle, car or bus",
+            "6": "In other place outside"
+        }
+    },
+    "since_moderate_activity": {
+        "LongName": "since_moderate_activity",
+        "Description": "Since the last assessment, how many minutes did you do moderate activities (activities that make you breathe somewhat harder than usual such as bicycling, carrying light loads)?",
+        "Levels": {
+            "0": "About 5 Minutes or Less",
+            "1": "About 10 Minutes",
+            "2": "About 20 Minutes",
+            "3": "About 30 Minutes",
+            "4": "About 40 Minutes",
+            "5": "About 50 Minutes",
+            "6": "More Than 1 Hour"
+        }
+    },
+    "since_eaten_amount": {
+        "LongName": "since_eaten_amount",
+        "Description": "How much have you eaten since the last assessment?",
+        "Levels": {
+            "1": "Just a snack",
+            "2": "Continuous snacking",
+            "3": "A small meal",
+            "4": "A regular full meal",
+            "5": "A large meal"
+        }
+    },
+    "since_pain_where": {
+        "LongName": "since_pain_where",
+        "Description": "Where are you feeling pain?",
+        "Levels": {
+            "1": "Headache",
+            "2": "Back/neck/shoulder",
+            "3": "Arms/hands",
+            "4": "Feet/legs",
+            "5": "Stomach bowel",
+            "6": "Menstrual cramps (Females only)",
+            "7": "Other Perineal (Females only) "
+        }
+    },
+    "pain_intensity": {
+        "LongName": "pain_intensity",
+        "Description": "How intense was the pain?",
+        "Levels": {
+            "1": "Very minor", 
+            "2": "Minor",
+            "3": "A little intense",
+            "4": "Fairly intense",
+            "5": "Intense",
+            "6": "Very intense",
+            "7": "Extremely intense"
+        }
+    },
+    "now_pain_where": {
+        "LongName": "now_pain_where",
+        "Description": "Where are you feeling pain?",
+        "Levels": {
+             "1": "Headache",
+            "2": "Back/neck/shoulder",
+            "3": "Arms/hands",
+            "4": "Feet/legs",
+            "5": "Stomach bowel",
+            "6": "Menstrual cramps (Females only)",
+            "7": "Other Perineal (Females only) "
+        }
+    },
+    "since_vigorous_activity": {
+        "LongName": "since_vigorous_activity",
+        "Description": "Since the last assessment, how many minutes did you do vigorous activities including intensive sports or exercise (such as running or fast cycling) or intensive physical work (such as heavy lifting or digging)?",
+        "Levels": {
+            "0": "About 5 Minutes or Less",
+            "1": "About 10 Minutes",
+            "2": "About 20 Minutes",
+            "3": "About 30 Minutes",
+            "4": "About 40 Minutes",
+            "5": "About 50 Minutes",
+            "6": "More Than 1 Hour"
+        }
+    },
+    "since_had_drink_alcohol_quantity": {
+        "LongName": "since_had_drink_alcohol_quantity",
+        "Description": "How many servings of alcohol did you consume?",
+        "Levels": {
+            "1": "1 serving", 
+            "2": "2 servings",
+            "3": "3 servings",
+            "4": "4 servings",
+            "5": "5 servings",
+            "6": "6 servings",
+            "7": "7 servings",
+            "8": "8 servings",
+            "9": "9 servings",
+            "10": "10 or more servings"
+        }
+    }
+}

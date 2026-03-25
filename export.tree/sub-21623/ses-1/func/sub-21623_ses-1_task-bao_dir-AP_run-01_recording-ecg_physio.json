@@ -1,0 +1,7 @@
+{
+    "Columns": [
+        "ecg"
+    ],
+    "SamplingFrequency": 400.0,
+    "StartTime": -19.605
+}
